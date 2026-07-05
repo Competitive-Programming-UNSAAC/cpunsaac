@@ -1,52 +1,36 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="es">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Scoreboards</title>
-    <link href="./output.css" rel="stylesheet">
+    <meta name="description" content="Scoreboards de todas las ediciones del Cuscontest - Competitive Programming UNSAAC">
+    <meta property="og:title" content="Cuscontest - Scoreboards">
+    <meta property="og:description" content="Archivo de resultados de todas las ediciones del Cuscontest">
+    <meta property="og:image" content="./img/header.png">
+    <meta property="og:type" content="website">
+    <title>Cuscontest - Scoreboards</title>
+    <link rel="icon" type="image/png" href="./img/logo.png">
+    <link href="./nav.css" rel="stylesheet">
     <link href="./style.css" rel="stylesheet">
-    <link rel="preload" as="image" href="img/imagen1.webp">
-    <link rel="preload" as="image" href="img/imagen2.webp">
-    <link rel="preload" as="image" href="img/imagen3.webp">
-    <link rel="preload" as="image" href="img/imagen4.webp">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600;700&family=JetBrains+Mono:wght@700&display=swap" rel="stylesheet">
 </head>
 <body>
-    <div id="background">
-        <header>
-          <h1>
-            CUSCONTEST
-          </h1>
-        </header>
-      
-        <!-- Lista de enlaces -->
-        <div>
-          <ul>
+    <div class="bg-slideshow" id="bg-slideshow"></div>
 
-            <li> <a href="https://codeforces.com/gym/365620/standings">Cuscontest XVII</a></li>
-            <li>
-              <a href="https://wozmit.github.io/ccxix/scoreboard">Cuscontest XIX</a>
-            </li>
+    <header class="org-header">
+      <div class="org-header-inner"></div>
+    </header>
 
-            <li><a href="https://omegaup.com/arena/cuscontest-xx/scoreboard/xabGNtJRMdX7JkMfNqvHCZe2rsfHVH">CuscontestXX</a></li>
-            <li>
-              <a href="./cuscontestxxi/index.html">Cuscontest XXI</a>
-            </li>
-            <li>
-              <a href="./cuscontestxxii/index.html">Cuscontest XXII</a>
-            </li>
-            <li>
-              <a href="./scoreboard/Cuscontest XXIII/index.html">Cuscontest XXIII</a>
-            </li>
-            <li>
-              <a href="./scoreboard/Cuscontest XXIV/index3.html">Cuscontest XXIV</a>
-            </li>
-          </ul>
-        </div>
-      
-        
-      </div>
-      <script src="route.js"></script>
-    
+    <main class="main">
+      <section class="editions">
+        <div class="contest-grid" id="contest-list"></div>
+      </section>
+    </main>
+
+    <script src="config.js"></script>
+    <script src="nav.js"></script>
+    <script src="route.js"></script>
 </body>
 </html>
