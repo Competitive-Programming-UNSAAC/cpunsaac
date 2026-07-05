@@ -162,6 +162,7 @@
         const events = siteConfig.events
           .map((e, i) => ({ ...e, id: i + 1 }))
           .filter(e => new Date(e.endDate).getTime() > now)
+          .sort((a, b) => new Date(a.startDate).getTime() - new Date(b.startDate).getTime())
           .slice(0, siteConfig.scoreboardGrid.maxEvents);
 
         const spanishDays = ['Domingo', 'Lunes', 'Martes', 'Miércoles', 'Jueves', 'Viernes', 'Sábado'];
