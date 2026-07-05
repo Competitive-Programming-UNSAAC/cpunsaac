@@ -45,104 +45,207 @@ body {
 
 .contest-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
-  gap: 1.4rem;
+  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+  gap: 1.5rem;
 }
 
+/* Card */
 .contest-card {
   display: flex;
   flex-direction: column;
   align-items: center;
-  justify-content: center;
-  padding: 2rem 1.4rem;
-  background: rgba(0, 0, 0, 0.4);
-  border: 1px solid rgba(255, 255, 255, 0.12);
+  gap: 0.8rem;
+  padding: 2rem;
+  background: rgba(12, 12, 28, 0.75);
+  border: 1px solid rgba(255, 255, 255, 0.06);
   border-radius: 1rem;
-  text-decoration: none;
   color: #fff;
   text-align: center;
-  transition: all 0.25s ease;
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.25);
   backdrop-filter: blur(40px);
   -webkit-backdrop-filter: blur(40px);
 }
 
-.contest-card:hover,
-.contest-card:focus-visible {
-  background: rgba(0, 0, 0, 0.55);
-  border-color: rgba(100, 180, 255, 0.4);
-  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.35), 0 0 20px rgba(100, 180, 255, 0.08);
-  transform: translateY(-4px);
-  outline: none;
+.contest-card:hover {
+  border-color: rgba(100, 180, 255, 0.2);
+  box-shadow: 0 12px 40px rgba(0, 0, 0, 0.4), 0 0 20px rgba(100, 180, 255, 0.05);
+  transform: translateY(-2px);
 }
 
 .contest-card.latest {
-  border-color: rgba(100, 180, 255, 0.4);
-  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.2), 0 0 12px rgba(100, 180, 255, 0.1);
+  border-color: rgba(100, 180, 255, 0.35);
+  box-shadow: 0 2px 16px rgba(0, 0, 0, 0.25), 0 0 12px rgba(100, 180, 255, 0.1);
+  position: relative;
+  overflow: hidden;
 }
 
-.contest-card .edition-top {
-  display: flex;
-  align-items: center;
-  gap: 0.6rem;
-  margin-bottom: 0.6rem;
-}
-
-.contest-card .edition-number {
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  width: 52px;
-  height: 52px;
-  border-radius: 0.6rem;
-  background: rgba(100, 180, 255, 0.1);
-  border: 1px solid rgba(100, 180, 255, 0.25);
+.latest-badge {
+  position: absolute;
+  top: 12px;
+  right: -30px;
+  background: linear-gradient(135deg, rgba(100, 180, 255, 0.9), rgba(80, 140, 220, 0.9));
   color: #fff;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 0.95rem;
+  font-size: 0.6rem;
   font-weight: 700;
-  letter-spacing: -0.5px;
-}
-
-.contest-card .edition-platform {
-  display: flex;
-  align-items: center;
-  gap: 0.3rem;
-  font-size: 0.7rem;
-  color: rgba(255, 255, 255, 0.5);
+  padding: 0.3rem 2.5rem;
   text-transform: uppercase;
   letter-spacing: 0.5px;
+  transform: rotate(45deg);
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
 }
 
-.platform-icon {
-  width: 18px;
-  height: 18px;
-  object-fit: contain;
-  border-radius: 2px;
+/* Card top: edition block + icon + platform name */
+.card-top {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
 }
 
-.contest-card .edition-name {
-  font-size: 1.05rem;
-  line-height: 1.4;
+.edition-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 0.15rem;
+  width: 72px;
+  height: 72px;
+  border-radius: 0.75rem;
+  background: rgba(100, 180, 255, 0.06);
+  border: 1px solid rgba(100, 180, 255, 0.2);
+  transition: border-color 0.3s ease;
+}
+
+.contest-card:hover .edition-block {
+  border-color: rgba(100, 180, 255, 0.35);
+}
+
+.edition-roman {
+  font-size: 1.25rem;
+  font-weight: 900;
+  letter-spacing: -0.3px;
+  color: #fff;
+  line-height: 1;
+}
+
+.edition-year {
+  font-size: 0.68rem;
   font-weight: 600;
+  color: rgba(100, 180, 255, 0.85);
 }
 
-.contest-card.external .edition-name::after {
-  content: " ↗";
-  opacity: 0.5;
+.platform-icon-lg {
+  width: 48px;
+  height: 48px;
+  object-fit: contain;
+  opacity: 0.9;
+  transition: opacity 0.2s ease;
 }
 
+.contest-card:hover .platform-icon-lg {
+  opacity: 1;
+}
+
+.card-platform-name {
+  font-size: 1rem;
+  color: rgba(255, 255, 255, 0.8);
+  font-weight: 600;
+  letter-spacing: -0.2px;
+}
+
+/* Links - secondary, subtle separator */
+.card-links {
+  display: flex;
+  gap: 0.4rem;
+  padding-top: 0.7rem;
+  border-top: 1px solid rgba(255, 255, 255, 0.05);
+  width: 100%;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-links .card-link + .card-link::before {
+  content: '·';
+  color: rgba(255, 255, 255, 0.25);
+  margin-right: 0.4rem;
+}
+
+.card-link {
+  font-size: 0.78rem;
+  font-weight: 500;
+  color: rgba(255, 255, 255, 0.4);
+  text-decoration: none;
+  transition: color 0.2s ease;
+  letter-spacing: 0.2px;
+  padding: 0.3rem 0.5rem;
+}
+
+.card-link:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+/* Responsive */
 @media (max-width: 768px) {
   .main {
     padding: 4.5rem 1rem 1.5rem;
   }
 
-  .contest-card {
-    padding: 1.5rem 1rem;
-    background: rgba(0, 0, 0, 0.55);
+  .contest-grid {
+    grid-template-columns: 1fr;
+    gap: 1rem;
   }
 
-  .contest-grid {
-    gap: 1rem;
+  .contest-card {
+    padding: 1.5rem 1.2rem;
+    background: rgba(10, 10, 25, 0.8);
+  }
+
+  .edition-block {
+    width: 64px;
+    height: 64px;
+  }
+
+  .edition-roman {
+    font-size: 1.1rem;
+  }
+
+  .platform-icon-lg {
+    width: 40px;
+    height: 40px;
+  }
+
+  .card-platform-name {
+    font-size: 0.9rem;
+  }
+
+  .card-link {
+    font-size: 0.85rem;
+    padding: 0.6rem 1rem;
+    border-radius: 0.4rem;
+    background: rgba(255, 255, 255, 0.04);
+  }
+}
+
+@media (max-width: 360px) {
+  .card-top {
+    gap: 0.6rem;
+  }
+
+  .edition-block {
+    width: 56px;
+    height: 56px;
+  }
+
+  .edition-roman {
+    font-size: 0.95rem;
+  }
+
+  .platform-icon-lg {
+    width: 32px;
+    height: 32px;
+  }
+
+  .card-platform-name {
+    font-size: 0.8rem;
   }
 }
