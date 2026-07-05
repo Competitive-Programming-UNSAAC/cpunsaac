@@ -44,7 +44,7 @@ const siteConfig = {
 
   events: [
     { name: "Training Camp Medellín 2026", url: "https://tcmedellin.com/", logo: "tcmedellin.png", startDate: "2026-06-29T09:00:00-05:00", endDate: "2026-07-10T18:00:00-05:00" },
-    { name: "Training Camp Mexico 2026", url: "https://icpc.global/regionals/finder/TCMX-2027", logo: "tcmexico.png", startDate: "2026-07-06T09:00:00-05:00", endDate: "2026-07-18T18:00:00-05:00" },
+    { name: "Training Camp Mexico 2026", url: "https://icpc.global/regionals/finder/TCMX-2027", logo: "tcmexico.png", startDate: "2026-08-03T09:00:00-05:00", endDate: "2026-08-15T18:00:00-05:00" },
     { name: "Training Camp UCSP 2026", url: "https://dc.ucsp.edu.pe/eventos/2do-training-camp-ucsp/", logo: "ucsp.png", startDate: "2026-07-13T09:00:00-05:00", endDate: "2026-07-17T18:00:00-05:00" },
     { name: "Training Camp Argentina 2026", url: "https://aapc.org.ar/tc/", logo: "tcarg.png", startDate: "2026-07-20T09:00:00-05:00", endDate: "2026-07-31T18:00:00-05:00" },
     { name: "Cuscontest XXV", url: "https://www.facebook.com/ACMUNSAAC", logo: "logo.png", startDate: "2026-08-07T09:00:00-05:00", endDate: "2026-08-07T14:00:00-05:00" },
