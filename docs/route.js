@@ -6,33 +6,54 @@ const platformIcons = {
 
 const grid = document.getElementById('contest-list');
 
-siteConfig.contests.forEach((contest, i) => {
-  const a = document.createElement('a');
-  a.href = contest.url;
-  a.className = 'contest-card';
+const contests = [...siteConfig.contests].reverse();
 
-  if (i === siteConfig.contests.length - 1) a.classList.add('latest');
+contests.forEach((contest, i) => {
+  const div = document.createElement('div');
+  div.className = 'contest-card';
+  if (i === 0) div.classList.add('latest');
 
-  if (contest.url.startsWith('http')) {
-    a.target = '_blank';
-    a.rel = 'noopener noreferrer';
-    a.classList.add('external');
+  if (contest.scoreboardUrl) {
+    div.style.cursor = 'pointer';
+    div.setAttribute('role', 'link');
+    div.setAttribute('aria-label', `Ver scoreboard de ${contest.name}`);
+    div.addEventListener('click', (e) => {
+      if (e.target.closest('.card-link')) return;
+      const isExternal = contest.scoreboardUrl.startsWith('http');
+      if (isExternal) {
+        window.open(contest.scoreboardUrl, '_blank');
+      } else {
+        window.location.href = contest.scoreboardUrl;
+      }
+    });
   }
 
   const icon = platformIcons[contest.platform] || '';
+  const roman = contest.name.replace('Cuscontest ', '');
 
-  a.innerHTML = `
-    <span class="edition-top">
-      <span class="edition-number">${contest.year}</span>
-      <span class="edition-platform">
-        ${icon ? `<img src="${icon}" alt="${contest.platform}" class="platform-icon">` : ''}
-        ${contest.platform}
-      </span>
-    </span>
-    <span class="edition-name">${contest.name}</span>
+  let links = '';
+  if (contest.contestUrl) {
+    links += `<a href="${contest.contestUrl}" target="_blank" rel="noopener noreferrer" class="card-link">Contest</a>`;
+  }
+  if (contest.scoreboardUrl) {
+    const isExternal = contest.scoreboardUrl.startsWith('http');
+    links += `<a href="${contest.scoreboardUrl}" ${isExternal ? 'target="_blank" rel="noopener noreferrer"' : ''} class="card-link">Scoreboard</a>`;
+  }
+
+  div.innerHTML = `
+    ${i === 0 ? '<span class="latest-badge">Nuevo</span>' : ''}
+    <div class="card-top">
+      <div class="edition-block">
+        <span class="edition-roman">${roman}</span>
+        <span class="edition-year">${contest.year}</span>
+      </div>
+      ${icon ? `<img src="${icon}" alt="${contest.platform}" class="platform-icon-lg">` : ''}
+      <span class="card-platform-name">${contest.platform}</span>
+    </div>
+    <div class="card-links">${links}</div>
   `;
 
-  grid.appendChild(a);
+  grid.appendChild(div);
 });
 
 const bg = document.getElementById('bg-slideshow');

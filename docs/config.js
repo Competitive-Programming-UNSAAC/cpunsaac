@@ -6,7 +6,7 @@ const siteConfig = {
   },
 
   pages: [
-    { name: "Scoreboards", url: "./index.html" },
+    { name: "Cuscontest", url: "./index.html" },
     { name: "Eventos", url: "./events.html" },
     { name: "Training Camps", dropdown: [
       { name: "ICPC Latam Training", url: "https://www.icpclatam.org/training" },
@@ -27,13 +27,13 @@ const siteConfig = {
   ],
 
   contests: [
-    { name: "Cuscontest XVII",  year: 2019, url: "https://codeforces.com/gym/365620/standings", platform: "Codeforces" },
-    { name: "Cuscontest XIX",   year: 2021, url: "https://wozmit.github.io/ccxix/scoreboard", platform: "DOMjudge" },
-    { name: "Cuscontest XX",    year: 2022, url: "https://omegaup.com/arena/cuscontest-xx/scoreboard/xabGNtJRMdX7JkMfNqvHCZe2rsfHVH", platform: "OmegaUp" },
-    { name: "Cuscontest XXI",   year: 2023, url: "./cuscontest-xxi/index.html", platform: "DOMjudge" },
-    { name: "Cuscontest XXII",  year: 2023, url: "./cuscontest-xxii/index.html", platform: "DOMjudge" },
-    { name: "Cuscontest XXIII", year: 2024, url: "./cuscontest-xxiii/index.html", platform: "DOMjudge" },
-    { name: "Cuscontest XXIV",  year: 2025, url: "./cuscontest-xxiv/index.html", platform: "DOMjudge" },
+    { name: "Cuscontest XVII",  year: 2019, contestUrl: "https://codeforces.com/gym/365620", scoreboardUrl: "https://codeforces.com/gym/365620/standings", platform: "Codeforces" },
+    { name: "Cuscontest XIX",   year: 2021, contestUrl: null, scoreboardUrl: "https://wozmit.github.io/ccxix/scoreboard", platform: "DOMjudge" },
+    { name: "Cuscontest XX",    year: 2022, contestUrl: "https://omegaup.com/arena/cuscontest-xx/", scoreboardUrl: "https://omegaup.com/arena/cuscontest-xx/scoreboard/xabGNtJRMdX7JkMfNqvHCZe2rsfHVH", platform: "OmegaUp" },
+    { name: "Cuscontest XXI",   year: 2023, contestUrl: "https://codeforces.com/group/gHgjxYvnJD/contest/541090", scoreboardUrl: "./cuscontest-xxi/index.html", platform: "DOMjudge" },
+    { name: "Cuscontest XXII",  year: 2023, contestUrl: "http://codeforces.com/group/gHgjxYvnJD/contest/616018", scoreboardUrl: "./cuscontest-xxii/index.html", platform: "DOMjudge" },
+    { name: "Cuscontest XXIII", year: 2024, contestUrl: "https://codeforces.com/group/gHgjxYvnJD/contest/646498", scoreboardUrl: "./cuscontest-xxiii/index.html", platform: "DOMjudge" },
+    { name: "Cuscontest XXIV",  year: 2025, contestUrl: null, scoreboardUrl: "./cuscontest-xxiv/index.html", platform: "DOMjudge" },
   ],
 
   scoreboardGrid: {
