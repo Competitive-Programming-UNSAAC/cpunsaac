@@ -205,44 +205,55 @@
                 const now = new Date().getTime();
                 const distanceToStart = startDate - now;
                 const distanceToEnd = endDate - now;
-                const isLastHourBeforeStart = distanceToStart > 0 && distanceToStart <= 60 * 60 * 1000;
-                const isLastHourBeforeEnd = distanceToEnd > 0 && distanceToEnd <= 60 * 60 * 1000;
 
                 if (distanceToStart <= 0 && !eventStarted) {
                     elements.countdown.classList.add('in-progress');
-                    elements.description.textContent = "¡El evento está en curso!";
+                    elements.description.textContent = `El evento ha comenzado, faltan:`;
                     eventStarted = true;
                 }
 
                 if (distanceToEnd <= 0 && !eventEnded) {
                     elements.countdown.classList.remove('in-progress');
                     elements.countdown.classList.add('complete');
-                    elements.description.textContent = "El evento ha finalizado";
+                    elements.description.textContent = "Finalizado";
+                    elements.countdown.querySelector('.timer').style.display = 'none';
                     eventEnded = true;
                 }
 
-                let distance = eventStarted ? distanceToEnd : distanceToStart;
+                if (!eventStarted) {
+                    const distance = distanceToStart;
+                    const isLastHour = distance <= 60 * 60 * 1000;
 
-                const timeUnits = [
-                    { value: Math.floor(Math.abs(distance) / (1000 * 60 * 60 * 24)), element: elements.days },
-                    { value: Math.floor((Math.abs(distance) % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)), element: elements.hours },
-                    { value: Math.floor((Math.abs(distance) % (1000 * 60 * 60)) / (1000 * 60)), element: elements.minutes },
-                    { value: Math.floor((Math.abs(distance) % (1000 * 60)) / 1000), element: elements.seconds }
-                ];
+                    const timeUnits = [
+                        { value: Math.floor(distance / (1000 * 60 * 60 * 24)), element: elements.days },
+                        { value: Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)), element: elements.hours },
+                        { value: Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)), element: elements.minutes },
+                        { value: Math.floor((distance % (1000 * 60)) / 1000), element: elements.seconds }
+                    ];
 
-                timeUnits.forEach(({ value, element }, index) => {
-                    element.textContent = value;
-                    if (eventEnded) {
+                    timeUnits.forEach(({ value, element }, index) => {
+                        element.textContent = value;
+                        if (isLastHour) {
+                            element.parentNode.style.display = index >= 2 ? 'flex' : 'none';
+                        } else {
+                            element.parentNode.style.display = index < 3 ? 'flex' : 'none';
+                        }
+                    });
+                } else if (!eventEnded) {
+                    const distance = distanceToEnd;
+
+                    const timeUnits = [
+                        { value: Math.floor(distance / (1000 * 60 * 60 * 24)), element: elements.days },
+                        { value: Math.floor((distance % (1000 * 60 * 60 * 24)) / (1000 * 60 * 60)), element: elements.hours },
+                        { value: Math.floor((distance % (1000 * 60 * 60)) / (1000 * 60)), element: elements.minutes },
+                        { value: Math.floor((distance % (1000 * 60)) / 1000), element: elements.seconds }
+                    ];
+
+                    timeUnits.forEach(({ value, element }, index) => {
+                        element.textContent = value;
                         element.parentNode.style.display = index < 3 ? 'flex' : 'none';
-                        element.textContent = '0';
-                    } else if (isLastHourBeforeStart || (eventStarted && isLastHourBeforeEnd)) {
-                        element.parentNode.style.display = index >= 2 ? 'flex' : 'none';
-                    } else if (eventStarted) {
-                        element.parentNode.style.display = index < 3 ? 'flex' : 'none';
-                    } else {
-                        element.parentNode.style.display = index < 3 ? 'flex' : 'none';
-                    }
-                });
+                    });
+                }
 
                 if (!eventEnded) {
                     requestAnimationFrame(update);
