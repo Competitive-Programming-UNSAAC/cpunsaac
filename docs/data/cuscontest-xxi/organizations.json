@@ -1,0 +1,23 @@
+[
+  {
+    "id": "AVANZ",
+    "name": "Avanzado",
+    "shortname": "Avanzado",
+    "formal_name": "Avanzado",
+    "country": "PER"
+  },
+  {
+    "id": "INTER",
+    "name": "Intermedio",
+    "shortname": "Intermedio",
+    "formal_name": "Intermedio",
+    "country": "PER"
+  },
+  {
+    "id": "PRINC",
+    "name": "Principiante",
+    "shortname": "Principiante",
+    "formal_name": "Principiante",
+    "country": "PER"
+  }
+]

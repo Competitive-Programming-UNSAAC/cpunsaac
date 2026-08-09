@@ -1,0 +1,128 @@
+[
+  {
+    "ordinal": 0,
+    "id": "A",
+    "label": "A",
+    "short_name": "A",
+    "name": "Kikiwiwi",
+    "rgb": "#FF0000",
+    "color": null
+  },
+  {
+    "ordinal": 1,
+    "id": "B",
+    "label": "B",
+    "short_name": "B",
+    "name": "Super Mario Bros",
+    "rgb": "#6600CC",
+    "color": null
+  },
+  {
+    "ordinal": 2,
+    "id": "C",
+    "label": "C",
+    "short_name": "C",
+    "name": "Mision Del Reino Champinhon",
+    "rgb": "#737373",
+    "color": null
+  },
+  {
+    "ordinal": 3,
+    "id": "D",
+    "label": "D",
+    "short_name": "D",
+    "name": "Nostalgia",
+    "rgb": "#009933",
+    "color": null
+  },
+  {
+    "ordinal": 4,
+    "id": "E",
+    "label": "E",
+    "short_name": "E",
+    "name": "Ejercito Equilibrado I",
+    "rgb": "#9966FF",
+    "color": null
+  },
+  {
+    "ordinal": 5,
+    "id": "F",
+    "label": "F",
+    "short_name": "F",
+    "name": "Ejercito Equilibrado II",
+    "rgb": "#0000FF",
+    "color": null
+  },
+  {
+    "ordinal": 6,
+    "id": "G",
+    "label": "G",
+    "short_name": "G",
+    "name": "Zork",
+    "rgb": "#000000",
+    "color": null
+  },
+  {
+    "ordinal": 7,
+    "id": "H",
+    "label": "H",
+    "short_name": "H",
+    "name": "Bomberman I",
+    "rgb": "#003300",
+    "color": null
+  },
+  {
+    "ordinal": 8,
+    "id": "I",
+    "label": "I",
+    "short_name": "I",
+    "name": "Bomberman II",
+    "rgb": "#FFFFFF",
+    "color": null
+  },
+  {
+    "ordinal": 9,
+    "id": "J",
+    "label": "J",
+    "short_name": "J",
+    "name": "La Armadura De Megaman",
+    "rgb": "#00CCFF",
+    "color": null
+  },
+  {
+    "ordinal": 10,
+    "id": "K",
+    "label": "K",
+    "short_name": "K",
+    "name": "El Camino De Megaman",
+    "rgb": "#663300",
+    "color": null
+  },
+  {
+    "ordinal": 11,
+    "id": "L",
+    "label": "L",
+    "short_name": "L",
+    "name": "Pacman",
+    "rgb": "#FFFF00",
+    "color": null
+  },
+  {
+    "ordinal": 12,
+    "id": "M",
+    "label": "M",
+    "short_name": "M",
+    "name": "Magicode",
+    "rgb": "#FF66CC",
+    "color": null
+  },
+  {
+    "ordinal": 13,
+    "id": "N",
+    "label": "N",
+    "short_name": "N",
+    "name": "Maximo Combo",
+    "rgb": "#FF9900",
+    "color": null
+  }
+]

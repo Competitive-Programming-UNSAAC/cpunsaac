@@ -1,0 +1,422 @@
+[
+  {
+    "id": "team21",
+    "name": "DikinBaus",
+    "display_name": "DikinBaus",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team09",
+    "name": "WA-n-OS",
+    "display_name": "WA-n-OS",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team25",
+    "name": "Traficantes de puntos",
+    "display_name": "Traficantes de puntos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team30",
+    "name": "Los Marina Gold Fans",
+    "display_name": "Los Marina Gold Fans",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team40",
+    "name": "Kiwi",
+    "display_name": "Kiwi",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team36",
+    "name": "La panadería del pan",
+    "display_name": "La panadería del pan",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team28",
+    "name": "MEPOS",
+    "display_name": "MEPOS",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team33",
+    "name": "LOS BYTEYARDIGANS",
+    "display_name": "LOS BYTEYARDIGANS",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team26",
+    "name": "Jala2",
+    "display_name": "Jala2",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team16",
+    "name": "Los Gatitos Miau Miau",
+    "display_name": "Los Gatitos Miau Miau",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team11",
+    "name": "Team wascas",
+    "display_name": "Team wascas",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team45",
+    "name": "En el paisaje de tus ojos",
+    "display_name": "En el paisaje de tus ojos",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team10",
+    "name": "DanielAndHisBags",
+    "display_name": "DanielAndHisBags",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team12",
+    "name": "Paragon",
+    "display_name": "Paragon",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team34",
+    "name": "puntos_extra",
+    "display_name": "puntos_extra",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team18",
+    "name": "Lauro Apruebame",
+    "display_name": "Lauro Apruebame",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team20",
+    "name": "GPT users",
+    "display_name": "GPT users",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team17",
+    "name": "los-dibujitos",
+    "display_name": "los-dibujitos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team14",
+    "name": "DoraEmos",
+    "display_name": "DoraEmos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team37",
+    "name": "Linux vs Windows",
+    "display_name": "Linux vs Windows",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team41",
+    "name": "Konavi",
+    "display_name": "Konavi",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team23",
+    "name": "Bad Students for Lauro(BSL)",
+    "display_name": "Bad Students for Lauro(BSL)",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team31",
+    "name": "AltWin",
+    "display_name": "AltWin",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team24",
+    "name": "Pixel Roses",
+    "display_name": "Pixel Roses",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team22",
+    "name": "Pepin OS",
+    "display_name": "Pepin OS",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team27",
+    "name": "AsteriX",
+    "display_name": "AsteriX",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team35",
+    "name": "Baje_de_Pepa.py",
+    "display_name": "Baje_de_Pepa.py",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team38",
+    "name": "Chui",
+    "display_name": "Chui",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team19",
+    "name": "Los angelitos",
+    "display_name": "Los angelitos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team39",
+    "name": "Los Paradores",
+    "display_name": "Los Paradores",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team15",
+    "name": "Pepinos Team",
+    "display_name": "Pepinos Team",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team42",
+    "name": "Rebornzar",
+    "display_name": "Rebornzar",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team13",
+    "name": "Saquenme de Argentina",
+    "display_name": "Saquenme de Argentina",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team29",
+    "name": "THE BEST",
+    "display_name": "THE BEST",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  },
+  {
+    "id": "team32",
+    "name": "TOURIST_1",
+    "display_name": "TOURIST_1",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER"
+  }
+]

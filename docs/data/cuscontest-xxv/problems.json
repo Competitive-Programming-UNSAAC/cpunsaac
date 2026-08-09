@@ -1,0 +1,242 @@
+[
+  {
+    "ordinal": 0,
+    "probid": 4,
+    "short_name": "A",
+    "rgb": "#FFFFFF",
+    "color": "white",
+    "label": "A",
+    "time_limit": 1,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/A/statement",
+        "mime": "application/pdf",
+        "filename": "A.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "A",
+    "name": "CaminoDeLosDioses",
+    "test_data_count": 17
+  },
+  {
+    "ordinal": 1,
+    "probid": 5,
+    "short_name": "B",
+    "rgb": "#87CEEB",
+    "color": "skyblue",
+    "label": "B",
+    "time_limit": 1,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/B/statement",
+        "mime": "application/pdf",
+        "filename": "B.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "B",
+    "name": "ElAltarEquilibrado",
+    "test_data_count": 8
+  },
+  {
+    "ordinal": 2,
+    "probid": 6,
+    "short_name": "C",
+    "rgb": "#0000FF",
+    "color": "blue",
+    "label": "C",
+    "time_limit": 1,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/C/statement",
+        "mime": "application/pdf",
+        "filename": "C.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "C",
+    "name": "ElDespertarDeLosApus",
+    "test_data_count": 13
+  },
+  {
+    "ordinal": 3,
+    "probid": 7,
+    "short_name": "D",
+    "rgb": "#FFFF00",
+    "color": "yellow",
+    "label": "D",
+    "time_limit": 3,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/D/statement",
+        "mime": "application/pdf",
+        "filename": "D.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "D",
+    "name": "ElEscapeDeNina",
+    "test_data_count": 67
+  },
+  {
+    "ordinal": 4,
+    "probid": 8,
+    "short_name": "E",
+    "rgb": "#008000",
+    "color": "green",
+    "label": "E",
+    "time_limit": 1,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/E/statement",
+        "mime": "application/pdf",
+        "filename": "E.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "E",
+    "name": "EsenciasIntocables",
+    "test_data_count": 36
+  },
+  {
+    "ordinal": 5,
+    "probid": 9,
+    "short_name": "F",
+    "rgb": "#800080",
+    "color": "purple",
+    "label": "F",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/F/statement",
+        "mime": "application/pdf",
+        "filename": "F.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "F",
+    "name": "IllapaYLasJarjachas",
+    "test_data_count": 63
+  },
+  {
+    "ordinal": 6,
+    "probid": 10,
+    "short_name": "G",
+    "rgb": "#8B4513",
+    "color": "saddlebrown",
+    "label": "G",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/G/statement",
+        "mime": "application/pdf",
+        "filename": "G.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "G",
+    "name": "LaTrinidadPrimordial",
+    "test_data_count": 17
+  },
+  {
+    "ordinal": 7,
+    "probid": 11,
+    "short_name": "H",
+    "rgb": "#000000",
+    "color": "black",
+    "label": "H",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/H/statement",
+        "mime": "application/pdf",
+        "filename": "H.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "H",
+    "name": "LasRunasDelSello",
+    "test_data_count": 7
+  },
+  {
+    "ordinal": 8,
+    "probid": 12,
+    "short_name": "I",
+    "rgb": "#FF69B4",
+    "color": "hotpink",
+    "label": "I",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/I/statement",
+        "mime": "application/pdf",
+        "filename": "I.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "I",
+    "name": "LosIngenieros",
+    "test_data_count": 21
+  },
+  {
+    "ordinal": 9,
+    "probid": 13,
+    "short_name": "J",
+    "rgb": "#ffa500",
+    "color": "orange",
+    "label": "J",
+    "time_limit": 1,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/J/statement",
+        "mime": "application/pdf",
+        "filename": "J.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "J",
+    "name": "LosPortalesDeLosApus",
+    "test_data_count": 10
+  },
+  {
+    "ordinal": 10,
+    "probid": 14,
+    "short_name": "K",
+    "rgb": "#90EE90",
+    "color": "lightgreen",
+    "label": "K",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/K/statement",
+        "mime": "application/pdf",
+        "filename": "K.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "K",
+    "name": "NinaYLosPumas",
+    "test_data_count": 5
+  },
+  {
+    "ordinal": 11,
+    "probid": 15,
+    "short_name": "L",
+    "rgb": "#FF0000",
+    "color": "red",
+    "label": "L",
+    "time_limit": 2,
+    "statement": [
+      {
+        "href": "contests/cuscontestXXV/problems/L/statement",
+        "mime": "application/pdf",
+        "filename": "L.pdf"
+      }
+    ],
+    "attachments": [],
+    "id": "L",
+    "name": "SantuariosAndinos",
+    "test_data_count": 29
+  }
+]
