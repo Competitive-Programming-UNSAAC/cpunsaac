@@ -484,7 +484,59 @@ body.static {
   }
 
   .legend-inline {
-    gap: 0.8rem;
+    gap: 0.6rem;
     flex-wrap: wrap;
+    justify-content: center;
+  }
+
+  .legend-item {
+    font-size: 0.6rem;
+  }
+
+  .stats-btn {
+    padding: 0.25rem 0.5rem;
+    margin-left: 0.5rem;
+  }
+
+  .container-fluid {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+
+  .mobile-scoreboard .scoretn {
+    max-width: 150px;
+  }
+
+  .mobile-scoreboard {
+    width: 100%;
+  }
+
+  .tm-header {
+    padding: 1.5rem 1.2rem 1rem;
+  }
+
+  .tm-name {
+    font-size: 1.2rem;
+  }
+
+  .tm-section {
+    padding: 1rem 1.2rem;
+  }
+
+  .stats-dashboard {
+    grid-template-columns: repeat(3, 1fr);
+  }
+
+  .stats-num-value {
+    font-size: 1.2rem;
+  }
+
+  .stats-bar-label {
+    width: 70px;
+    font-size: 0.65rem;
+  }
+
+  .fs-team {
+    font-size: 0.75rem;
   }
 }

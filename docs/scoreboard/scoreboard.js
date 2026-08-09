@@ -344,40 +344,34 @@ const ScoreboardRenderer = (() => {
       const flagCode = getFlagCode(team.nationality);
       const cls = i === 0 ? ' class="sortorderswitch"' : '';
 
-      html += `<tr${cls} style="border-bottom-width:0;height:28px">`;
+      const hasModal = team.public_description || team.affiliation || (team.location && team.location.description);
+      const rowClick = hasModal ? ` style="cursor:pointer" data-bs-toggle="modal" data-bs-target="#team-modal-${row.team_id}"` : '';
+
+      html += `<tr${cls}${rowClick}>`;
       html += `<td class="scorepl">${row.rank}</td>`;
       html += flagCode && config.flagsPath
         ? `<td class="scoreaf"><a><img class="countryflag" loading="lazy" src="${config.flagsPath}/${flagCode}.svg" alt="${team.nationality}"></a></td>`
         : `<td class="scoreaf"></td>`;
       html += `<td class="scoreaf heart"></td>`;
-      html += `<td class="scoretn" title="${escapeHtml(name)}"><span class="forceWidth">${escapeHtml(name)}</span>${affiliation ? `<span class="univ forceWidth">${escapeHtml(affiliation)}</span>` : ''}</td>`;
-      html += `<td class="scorenc">${row.score.num_solved}</td>`;
-      html += `</tr>`;
-
-      html += `<tr style="height:20px"><td colspan="2"></td><td colspan="3"><span class="mobile-problem-badges">`;
+      html += `<td class="scoretn" title="${escapeHtml(name)}">`;
+      html += `<span class="forceWidth">${escapeHtml(name)}</span>`;
+      html += `<span class="mobile-problem-badges">`;
       for (let j = 0; j < problems.length; j++) {
         const prob = row.problems[j];
+        if (!prob || prob.num_judged === 0) continue;
         const pDef = problems[j];
-        const rgb = pDef.rgb || '#000000';
-        const border = darkenColor(rgb);
-        const color = textColorForBg(rgb);
-        let style, txtColor;
-
-        if (prob && prob.num_judged > 0) {
-          if (prob.solved) {
-            style = prob.first_to_solve ? 'background-color:#1daa1d;border:1px solid #0d6b0d' : 'background-color:#60e760;border:1px solid #30b730';
-            txtColor = '#000';
-          } else {
-            style = 'background-color:#e87272;border:1px solid #bf0000';
-            txtColor = '#000';
-          }
+        let style;
+        if (prob.solved) {
+          style = prob.first_to_solve ? 'background-color:#1daa1d;border:1px solid #0d6b0d' : 'background-color:#60e760;border:1px solid #30b730';
         } else {
-          style = `background-color:${rgb};border:1px solid ${border}`;
-          txtColor = color;
+          style = 'background-color:#e87272;border:1px solid #bf0000';
         }
-        html += `<span class="badge problem-badge" style="${style};min-width:20px;font-size:0.7em"><span style="color:${txtColor}">${pDef.label}</span></span> `;
+        html += `<span class="badge problem-badge" style="${style};min-width:18px;font-size:0.6em"><span style="color:#000">${pDef.label}</span></span> `;
       }
-      html += `</span></td></tr>`;
+      html += `</span>`;
+      html += `</td>`;
+      html += `<td class="scorenc">${row.score.num_solved}</td>`;
+      html += `</tr>`;
     }
     return html;
   }
