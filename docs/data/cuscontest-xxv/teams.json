@@ -1,0 +1,666 @@
+[
+  {
+    "location": null,
+    "organization_id": null,
+    "hidden": true,
+    "group_ids": ["system"],
+    "affiliation": null,
+    "nationality": null,
+    "photo": [
+      {
+        "href": "contests/cuscontestXXV/teams/domjudge/photo",
+        "mime": "image/jpeg",
+        "filename": "photo.jpg",
+        "width": 320,
+        "height": 200
+      }
+    ],
+    "teamid": 1,
+    "id": "domjudge",
+    "icpc_id": null,
+    "label": "domjudge",
+    "name": "DOMjudge",
+    "display_name": null,
+    "public_description": null
+  },
+  {
+    "location": {
+      "description": "LAB 304-3"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 3,
+    "id": "team01",
+    "icpc_id": null,
+    "label": "team01",
+    "name": "SOLO",
+    "display_name": "SOLO",
+    "public_description": "- Adrian Alejandro Leon Ojeda\nUniversidad: UPC"
+  },
+  {
+    "location": {
+      "description": "LAB 303-4"
+    },
+    "organization_id": "ELITE",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Elite",
+    "nationality": "PER",
+    "teamid": 4,
+    "id": "team02",
+    "icpc_id": null,
+    "label": "team02",
+    "name": "NERV",
+    "display_name": "NERV",
+    "public_description": "- Alexander Yerim Naola Pereyra\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-1"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 5,
+    "id": "team03",
+    "icpc_id": null,
+    "label": "team03",
+    "name": "Los piolines",
+    "display_name": "Los piolines",
+    "public_description": "- Jeliberth Jimena Ramirez Vilchez\n- Ximena Chihuan Cardenas\n- Yanely Mireya Mayta Ortega\nUniversidad: UNCP"
+  },
+  {
+    "location": {
+      "description": "LAB 301-5"
+    },
+    "organization_id": "ELITE",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Elite",
+    "nationality": "PER",
+    "teamid": 6,
+    "id": "team04",
+    "icpc_id": null,
+    "label": "team04",
+    "name": "Mapachitos Kamikaze",
+    "display_name": "Mapachitos Kamikaze",
+    "public_description": "- Sandra Gabriela Aliaga Chaiña\r\n- Tania Luz Ayque Puraca\r\n- Edson Fabricio Subia Huaicane\r\nUniversidad: UNSA"
+  },
+  {
+    "location": {
+      "description": "LAB 302-5"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 7,
+    "id": "team05",
+    "icpc_id": null,
+    "label": "team05",
+    "name": "nullPointers",
+    "display_name": "nullPointers",
+    "public_description": "- Jhon Efrain Quispe Chura\n- Brayan Arnold Lozano Quispe\n- Oscar Alex Quispe Chura\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 302-1"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 8,
+    "id": "team06",
+    "icpc_id": null,
+    "label": "team06",
+    "name": "The Juniors",
+    "display_name": "The Juniors",
+    "public_description": "- Zahid Anthony Contreras Pinto\n- Jose Christopher Coarity Apaza\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 303-1"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 9,
+    "id": "team07",
+    "icpc_id": null,
+    "label": "team07",
+    "name": "Pukis",
+    "display_name": "Pukis",
+    "public_description": "- Franco Apolo Moreno Vera\n- Juan Rolando Moreno Motta\nUniversidad: UNI"
+  },
+  {
+    "location": {
+      "description": "LAB 303-5"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 10,
+    "id": "team08",
+    "icpc_id": null,
+    "label": "team08",
+    "name": "NOT(MultiUser)",
+    "display_name": "NOT(MultiUser)",
+    "public_description": "- Rayneld Fidel Castro Pari\n- Ricardo Andres Paredes Huanca\nUniversidad: UNSAAC/UNI"
+  },
+  {
+    "location": {
+      "description": "LAB 304-5"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 11,
+    "id": "team09",
+    "icpc_id": null,
+    "label": "team09",
+    "name": "Characatux",
+    "display_name": "Characatux",
+    "public_description": "- Alvaro Raul Quispe Condori\n- Diego Ivan Pacori Anccasi\nUniversidad: UNSA"
+  },
+  {
+    "location": {
+      "description": "LAB 301-8"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 12,
+    "id": "team10",
+    "icpc_id": null,
+    "label": "team10",
+    "name": "Paradox",
+    "display_name": "Paradox",
+    "public_description": "- Carlos Alberto De Jesus Meza Pelaez\n- Ronny Luis Pumaricra Meneses\n- Axel Alexander Cayllahua Berrocal\nUniversidad: UNTELS"
+  },
+  {
+    "location": {
+      "description": "LAB 301-4"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 13,
+    "id": "team11",
+    "icpc_id": null,
+    "label": "team11",
+    "name": "Tilines de la oscuridad",
+    "display_name": "Tilines de la oscuridad",
+    "public_description": "- Fany Lidia Rodas Ccaccya\nUniversidad: KHIPU"
+  },
+  {
+    "location": {
+      "description": "LAB 302-8"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 14,
+    "id": "team12",
+    "icpc_id": null,
+    "label": "team12",
+    "name": "Ohh estás haciendo maghea, continua",
+    "display_name": "Ohh estás haciendo maghea, continua",
+    "public_description": "- Gabriel Caleb Suca Hilares\n- Alvaro Alonso Ayte Noa\n- Renzo Sebastian Quispe Pinares\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-1"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 15,
+    "id": "team13",
+    "icpc_id": null,
+    "label": "team13",
+    "name": "De gatos a huanacos",
+    "display_name": "De gatos a huanacos",
+    "public_description": "- Corwin Arturo García Condori\n- Shadú Jeffrey Gonza Zapata\n- Carlos Miguel Aucapuri Corimanya\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-2"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 16,
+    "id": "team14",
+    "icpc_id": null,
+    "label": "team14",
+    "name": "DibujitosDePapel",
+    "display_name": "DibujitosDePapel",
+    "public_description": "- Perez Galarza, Rodrigo Sebastian\n- Quispe Allca Jhosmel Lenin\n- Contreras Lopez Nhorwesten Yader\nUniversidad: UNCP"
+  },
+  {
+    "location": {
+      "description": "LAB 303-8"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 17,
+    "id": "team15",
+    "icpc_id": null,
+    "label": "team15",
+    "name": "T-Kernel",
+    "display_name": "T-Kernel",
+    "public_description": "- Giorgini Disalvatore Pacci Pérez\n- Aron Rene Cachicatari Quito\n- Luis Fernando Condori Caljaro\nUniversidad: UNJBG"
+  },
+  {
+    "location": {
+      "description": "LAB 302-2"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 18,
+    "id": "team16",
+    "icpc_id": null,
+    "label": "team16",
+    "name": "Los Trifasicos",
+    "display_name": "Los Trifasicos",
+    "public_description": "- Gonzales Sedano Maicol Jhordi\n- Alvaro Prosopio Común\n- Roger Jim Pacaya Ayaque\nUniversidad: UNCP/UNI"
+  },
+  {
+    "location": {
+      "description": "LAB 303-2"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 19,
+    "id": "team17",
+    "icpc_id": null,
+    "label": "team17",
+    "name": "Wuanakoz reveldes",
+    "display_name": "Wuanakoz reveldes",
+    "public_description": "- Diego Mauricio Champi Pareja\n- Edwin Paolo Kaique Mesicano Huaman\n- Luis Humberto Laurel Huaman\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 302-4"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 20,
+    "id": "team18",
+    "icpc_id": null,
+    "label": "team18",
+    "name": "M4sit0",
+    "display_name": "M4sit0",
+    "public_description": "- Mahir Gianpier Gutierrez Rodriguez\nUniversidad: UTEC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-2"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 21,
+    "id": "team19",
+    "icpc_id": null,
+    "label": "team19",
+    "name": "Los pythonsitos",
+    "display_name": "Los pythonsitos",
+    "public_description": "- Adrian Fabricio Ccahuaya Quispe\n- Alfred Smith Bolivar Alegre\n- Daniel Casazola Leon\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-6"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 22,
+    "id": "team20",
+    "icpc_id": null,
+    "label": "team20",
+    "name": "Ctrl+Z",
+    "display_name": "Ctrl+Z",
+    "public_description": "- Yely Lazo Florez\n- Yasmin Graciela Ccansaya Corrales\n- Luz Diana Ancasi Aymachoque\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-4"
+    },
+    "organization_id": "ELITE",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Elite",
+    "nationality": "PER",
+    "teamid": 23,
+    "id": "team21",
+    "icpc_id": null,
+    "label": "team21",
+    "name": "Electrolito",
+    "display_name": "Electrolito",
+    "public_description": "- Salvador Antonio Yaya Flores\nUniversidad: UNMSM"
+  },
+  {
+    "location": {
+      "description": "LAB 304-8"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 24,
+    "id": "team22",
+    "icpc_id": null,
+    "label": "team22",
+    "name": "Los Byteyardingans",
+    "display_name": "Los Byteyardingans",
+    "public_description": "- Joan Gonzalo Quispe Checya\n- Angel Ismael Álvarez Catunta\n- Luis Angel Mogrovejo Ccorimanya\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 303-7"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 25,
+    "id": "team23",
+    "icpc_id": null,
+    "label": "team23",
+    "name": "Luxfoo",
+    "display_name": "Luxfoo",
+    "public_description": "- Cesar Ciro Olarte Bautista\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-9"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 26,
+    "id": "team24",
+    "icpc_id": null,
+    "label": "team24",
+    "name": "C Team",
+    "display_name": "C Team",
+    "public_description": "- Dominic Jair Delgado Huamputupa\n- José Javier Huaman Sutta\n- Gerald Benjamin Huanto Ayma\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 302-6"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 27,
+    "id": "team25",
+    "icpc_id": null,
+    "label": "team25",
+    "name": "Los pupilos de amilcar",
+    "display_name": "Los pupilos de amilcar",
+    "public_description": "- Carlos Rodrigo Rivera Solorzano\n- Ccansaya Chaiza Ronal Ytali\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 303-6"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 28,
+    "id": "team26",
+    "icpc_id": null,
+    "label": "team26",
+    "name": "\u003C3 Dos bits \u003C3",
+    "display_name": "\u003C3 Dos bits \u003C3",
+    "public_description": "- Ibeth Janela Del Pilar Cusi Diaz\n- Jannira Alison Farfan Luna\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-3"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 29,
+    "id": "team27",
+    "icpc_id": null,
+    "label": "team27",
+    "name": "Los Reales",
+    "display_name": "Los Reales",
+    "public_description": "- Javier Percy Vilchez Camarena\n- Julio César Yance Ramos\n- Gabriel Omar Salazar Rojas\nUniversidad: UNCP"
+  },
+  {
+    "location": {
+      "description": "LAB 302-9"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 30,
+    "id": "team28",
+    "icpc_id": null,
+    "label": "team28",
+    "name": "IA no hay tokens",
+    "display_name": "IA no hay tokens",
+    "public_description": "- Andy Jefferson Zevallos Yanqui\n- Fidel Enrique Colque Quispe\n- Natan Mamani Flores\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-9"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 31,
+    "id": "team29",
+    "icpc_id": null,
+    "label": "team29",
+    "name": "Chapulines",
+    "display_name": "Chapulines",
+    "public_description": "- Jonh Jeremi Díaz Pumalloclla\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 303-9"
+    },
+    "organization_id": "INTER",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Intermedio",
+    "nationality": "PER",
+    "teamid": 32,
+    "id": "team30",
+    "icpc_id": null,
+    "label": "team30",
+    "name": "AlgorithmX",
+    "display_name": "AlgorithmX",
+    "public_description": "- Dolly Yadhira Mollo Chuquicaña\n- Saul Andre Sivincha Machaca\nUniversidad: UNSA"
+  },
+  {
+    "location": {
+      "description": "LAB 302-3"
+    },
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 33,
+    "id": "team31",
+    "icpc_id": null,
+    "label": "team31",
+    "name": "BelNotFound",
+    "display_name": "BelNotFound",
+    "public_description": "- Beltran Quispe Chui\n- Mescco Conde Trisano\n- Choquecahua Gutiérrez Kevin Heli\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-7"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 35,
+    "id": "team33",
+    "icpc_id": null,
+    "label": "team33",
+    "name": "Los calapatitas de Cascaparo",
+    "display_name": "Los calapatitas de Cascaparo",
+    "public_description": "- Marcus Geuseppe\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 304-6"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 36,
+    "id": "team34",
+    "icpc_id": null,
+    "label": "team34",
+    "name": "Wat0n3s.cpp",
+    "display_name": "Wat0n3s.cpp",
+    "public_description": "- Rosy Aurely Montalvo Solorzano\n- Jhoel Fabrizzio Magaña Osorio\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 301-7"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 37,
+    "id": "team35",
+    "icpc_id": null,
+    "label": "team35",
+    "name": "Pillco Apruebame",
+    "display_name": "Pillco Apruebame",
+    "public_description": "- Andric Jeremy Bueno Lescano\n- Nilson Leonel Zuloaga Ccopa\n- David Fernando Prieto Cardoso\nUniversidad: UNSAAC"
+  },
+  {
+    "location": {
+      "description": "LAB 302-7"
+    },
+    "organization_id": "AVANZ",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Avanzado",
+    "nationality": "PER",
+    "teamid": 38,
+    "id": "team36",
+    "icpc_id": null,
+    "label": "team36",
+    "name": "LageadadeAntony",
+    "display_name": "LageadadeAntony",
+    "public_description": "- Franklin Gilberto Mamani Condori\n- Jack Eliezer Ttito Huaman\n- Brayan Isau Choque Mamani\nUniversidad: UNSAAC"
+  },
+  {
+    "location": null,
+    "organization_id": null,
+    "hidden": true,
+    "group_ids": ["jury"],
+    "affiliation": null,
+    "nationality": null,
+    "teamid": 39,
+    "id": "scoreboard1",
+    "icpc_id": null,
+    "label": "scoreboard1",
+    "name": "scoreboard1",
+    "display_name": null,
+    "public_description": "scoreboard1"
+  },
+  {
+    "location": null,
+    "organization_id": null,
+    "hidden": true,
+    "group_ids": ["jury"],
+    "affiliation": null,
+    "nationality": null,
+    "teamid": 40,
+    "id": "scoreboard2",
+    "icpc_id": null,
+    "label": "scoreboard2",
+    "name": "scoreboard2",
+    "display_name": null,
+    "public_description": "scoreboard2"
+  },
+  {
+    "location": null,
+    "organization_id": "PRINC",
+    "hidden": false,
+    "group_ids": ["contestants"],
+    "affiliation": "Principiante",
+    "nationality": "PER",
+    "teamid": 41,
+    "id": "team32",
+    "icpc_id": null,
+    "label": "team32",
+    "name": "RAS UTP",
+    "display_name": "RAS UTP",
+    "public_description": null
+  }
+]

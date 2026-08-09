@@ -1,0 +1,5024 @@
+[
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:15:08.913-05:00",
+    "contest_time": "0:15:08.913",
+    "team_id": "team10",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/1/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 1,
+    "id": "1",
+    "entry_point": "c.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:16:31.927-05:00",
+    "contest_time": "0:16:31.927",
+    "team_id": "team10",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/2/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 2,
+    "id": "2",
+    "entry_point": "c.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:17:27.549-05:00",
+    "contest_time": "0:17:27.549",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/3/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 3,
+    "id": "3",
+    "entry_point": "j_1.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:18:02.273-05:00",
+    "contest_time": "0:18:02.273",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/4/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 4,
+    "id": "4",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:18:38.208-05:00",
+    "contest_time": "0:18:38.208",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/5/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 5,
+    "id": "5",
+    "entry_point": "j_1.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:19:32.148-05:00",
+    "contest_time": "0:19:32.148",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/6/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 6,
+    "id": "6",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:19:39.027-05:00",
+    "contest_time": "0:19:39.027",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/7/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 7,
+    "id": "7",
+    "entry_point": "j_1.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:20:08.548-05:00",
+    "contest_time": "0:20:08.548",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/8/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 8,
+    "id": "8",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:21:25.635-05:00",
+    "contest_time": "0:21:25.635",
+    "team_id": "team09",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/9/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 9,
+    "id": "9",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:22:38.857-05:00",
+    "contest_time": "0:22:38.857",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/10/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 10,
+    "id": "10",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:23:54.421-05:00",
+    "contest_time": "0:23:54.421",
+    "team_id": "team05",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/11/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 11,
+    "id": "11",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:27:30.344-05:00",
+    "contest_time": "0:27:30.344",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/12/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 12,
+    "id": "12",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:28:02.504-05:00",
+    "contest_time": "0:28:02.504",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/13/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 13,
+    "id": "13",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:29:22.556-05:00",
+    "contest_time": "0:29:22.556",
+    "team_id": "team09",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/14/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 14,
+    "id": "14",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:30:00.728-05:00",
+    "contest_time": "0:30:00.728",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/15/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 15,
+    "id": "15",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:30:21.803-05:00",
+    "contest_time": "0:30:21.803",
+    "team_id": "team09",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/16/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 16,
+    "id": "16",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:33:17.495-05:00",
+    "contest_time": "0:33:17.495",
+    "team_id": "team09",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/17/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 17,
+    "id": "17",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:33:23.684-05:00",
+    "contest_time": "0:33:23.684",
+    "team_id": "team05",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/18/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 18,
+    "id": "18",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:33:37.055-05:00",
+    "contest_time": "0:33:37.055",
+    "team_id": "team18",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/19/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 19,
+    "id": "19",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:35:51.471-05:00",
+    "contest_time": "0:35:51.471",
+    "team_id": "team10",
+    "problem_id": "F",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/20/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 20,
+    "id": "20",
+    "entry_point": "f.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:36:03.175-05:00",
+    "contest_time": "0:36:03.175",
+    "team_id": "team01",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/21/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 21,
+    "id": "21",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:39:11.447-05:00",
+    "contest_time": "0:39:11.447",
+    "team_id": "team01",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/22/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 22,
+    "id": "22",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:40:06.704-05:00",
+    "contest_time": "0:40:06.704",
+    "team_id": "team10",
+    "problem_id": "F",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/23/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 23,
+    "id": "23",
+    "entry_point": "f.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:40:51.600-05:00",
+    "contest_time": "0:40:51.600",
+    "team_id": "team08",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/24/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 24,
+    "id": "24",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:41:21.815-05:00",
+    "contest_time": "0:41:21.815",
+    "team_id": "team15",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/25/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 25,
+    "id": "25",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:43:33.265-05:00",
+    "contest_time": "0:43:33.265",
+    "team_id": "team05",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/26/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 26,
+    "id": "26",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:44:01.418-05:00",
+    "contest_time": "0:44:01.418",
+    "team_id": "team05",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/27/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 27,
+    "id": "27",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:46:16.574-05:00",
+    "contest_time": "0:46:16.574",
+    "team_id": "team35",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/28/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 28,
+    "id": "28",
+    "entry_point": "c.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:46:41.205-05:00",
+    "contest_time": "0:46:41.205",
+    "team_id": "team05",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/29/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 29,
+    "id": "29",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:47:16.313-05:00",
+    "contest_time": "0:47:16.313",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/30/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 30,
+    "id": "30",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:48:08.250-05:00",
+    "contest_time": "0:48:08.250",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/31/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 31,
+    "id": "31",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:48:31.124-05:00",
+    "contest_time": "0:48:31.124",
+    "team_id": "team05",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/32/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 32,
+    "id": "32",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:52:14.242-05:00",
+    "contest_time": "0:52:14.242",
+    "team_id": "team10",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/33/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 33,
+    "id": "33",
+    "entry_point": "a.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:52:14.611-05:00",
+    "contest_time": "0:52:14.611",
+    "team_id": "team13",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/34/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 34,
+    "id": "34",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:52:42.698-05:00",
+    "contest_time": "0:52:42.698",
+    "team_id": "team35",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/35/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 35,
+    "id": "35",
+    "entry_point": "c_2.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:53:18.394-05:00",
+    "contest_time": "0:53:18.394",
+    "team_id": "team17",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/36/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 36,
+    "id": "36",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:54:35.966-05:00",
+    "contest_time": "0:54:35.966",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/37/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 37,
+    "id": "37",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:55:00.128-05:00",
+    "contest_time": "0:55:00.128",
+    "team_id": "team08",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/38/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 38,
+    "id": "38",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:55:52.682-05:00",
+    "contest_time": "0:55:52.682",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/39/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 39,
+    "id": "39",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T15:56:45.321-05:00",
+    "contest_time": "0:56:45.321",
+    "team_id": "team35",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/40/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 40,
+    "id": "40",
+    "entry_point": "c_2.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:57:03.223-05:00",
+    "contest_time": "0:57:03.223",
+    "team_id": "team05",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/41/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 41,
+    "id": "41",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:58:25.309-05:00",
+    "contest_time": "0:58:25.309",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/42/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 42,
+    "id": "42",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T15:59:32.978-05:00",
+    "contest_time": "0:59:32.977",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/43/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 43,
+    "id": "43",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:03:33.811-05:00",
+    "contest_time": "1:03:33.811",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/44/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 44,
+    "id": "44",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:06:02.520-05:00",
+    "contest_time": "1:06:02.520",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/45/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 45,
+    "id": "45",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:06:21.673-05:00",
+    "contest_time": "1:06:21.673",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/46/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 46,
+    "id": "46",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:07:08.175-05:00",
+    "contest_time": "1:07:08.175",
+    "team_id": "team22",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/47/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 47,
+    "id": "47",
+    "entry_point": "C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:07:13.623-05:00",
+    "contest_time": "1:07:13.623",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/48/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 48,
+    "id": "48",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:08:33.971-05:00",
+    "contest_time": "1:08:33.971",
+    "team_id": "team17",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/49/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 49,
+    "id": "49",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:08:52.531-05:00",
+    "contest_time": "1:08:52.531",
+    "team_id": "team13",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/50/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 50,
+    "id": "50",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:10:37.636-05:00",
+    "contest_time": "1:10:37.636",
+    "team_id": "team28",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/51/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 51,
+    "id": "51",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:12:04.205-05:00",
+    "contest_time": "1:12:04.205",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/52/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 52,
+    "id": "52",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:12:14.926-05:00",
+    "contest_time": "1:12:14.926",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/53/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 53,
+    "id": "53",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:12:30.243-05:00",
+    "contest_time": "1:12:30.243",
+    "team_id": "team04",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/54/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 54,
+    "id": "54",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:15:05.374-05:00",
+    "contest_time": "1:15:05.374",
+    "team_id": "team19",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/55/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 55,
+    "id": "55",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:15:36.126-05:00",
+    "contest_time": "1:15:36.126",
+    "team_id": "team07",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/56/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 56,
+    "id": "56",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:16:40.583-05:00",
+    "contest_time": "1:16:40.583",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/57/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 57,
+    "id": "57",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:17:09.926-05:00",
+    "contest_time": "1:17:09.926",
+    "team_id": "team08",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/58/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 58,
+    "id": "58",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:18:30.946-05:00",
+    "contest_time": "1:18:30.946",
+    "team_id": "team25",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/59/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 59,
+    "id": "59",
+    "entry_point": "ejercicio_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:18:55.675-05:00",
+    "contest_time": "1:18:55.675",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/60/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 60,
+    "id": "60",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:20:43.285-05:00",
+    "contest_time": "1:20:43.285",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/61/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 61,
+    "id": "61",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:22:21.577-05:00",
+    "contest_time": "1:22:21.577",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/62/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 62,
+    "id": "62",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:23:05.970-05:00",
+    "contest_time": "1:23:05.970",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/63/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 63,
+    "id": "63",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:23:17.669-05:00",
+    "contest_time": "1:23:17.669",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/64/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 64,
+    "id": "64",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:23:44.064-05:00",
+    "contest_time": "1:23:44.064",
+    "team_id": "team28",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/65/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 65,
+    "id": "65",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:24:06.160-05:00",
+    "contest_time": "1:24:06.160",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/66/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 66,
+    "id": "66",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:25:27.366-05:00",
+    "contest_time": "1:25:27.366",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/67/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 67,
+    "id": "67",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:25:51.996-05:00",
+    "contest_time": "1:25:51.996",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/68/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 68,
+    "id": "68",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:26:17.407-05:00",
+    "contest_time": "1:26:17.407",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/69/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 69,
+    "id": "69",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:27:17.600-05:00",
+    "contest_time": "1:27:17.600",
+    "team_id": "team19",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/70/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 70,
+    "id": "70",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:28:26.642-05:00",
+    "contest_time": "1:28:26.642",
+    "team_id": "team08",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/71/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 71,
+    "id": "71",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:29:33.568-05:00",
+    "contest_time": "1:29:33.568",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/72/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 72,
+    "id": "72",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:30:06.933-05:00",
+    "contest_time": "1:30:06.933",
+    "team_id": "team01",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/73/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 73,
+    "id": "73",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:31:15.630-05:00",
+    "contest_time": "1:31:15.630",
+    "team_id": "team22",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/74/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 74,
+    "id": "74",
+    "entry_point": "C1.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:32:21.965-05:00",
+    "contest_time": "1:32:21.965",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/75/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 75,
+    "id": "75",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:32:26.489-05:00",
+    "contest_time": "1:32:26.489",
+    "team_id": "team08",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/76/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 76,
+    "id": "76",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:33:22.666-05:00",
+    "contest_time": "1:33:22.666",
+    "team_id": "team07",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/77/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 77,
+    "id": "77",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:36:08.631-05:00",
+    "contest_time": "1:36:08.631",
+    "team_id": "team09",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/78/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 78,
+    "id": "78",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:36:49.625-05:00",
+    "contest_time": "1:36:49.625",
+    "team_id": "team35",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/79/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 79,
+    "id": "79",
+    "entry_point": "k.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:37:02.260-05:00",
+    "contest_time": "1:37:02.260",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/80/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 80,
+    "id": "80",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:38:24.713-05:00",
+    "contest_time": "1:38:24.713",
+    "team_id": "team04",
+    "problem_id": "F",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/81/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 81,
+    "id": "81",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:38:30.872-05:00",
+    "contest_time": "1:38:30.872",
+    "team_id": "team10",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/82/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 82,
+    "id": "82",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:40:50.826-05:00",
+    "contest_time": "1:40:50.825",
+    "team_id": "team02",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/83/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 83,
+    "id": "83",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:45:05.087-05:00",
+    "contest_time": "1:45:05.087",
+    "team_id": "team28",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/84/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 84,
+    "id": "84",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:45:15.472-05:00",
+    "contest_time": "1:45:15.472",
+    "team_id": "team19",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/85/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 85,
+    "id": "85",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:46:10.903-05:00",
+    "contest_time": "1:46:10.903",
+    "team_id": "team25",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/86/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 86,
+    "id": "86",
+    "entry_point": "ejercicio_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:50:03.866-05:00",
+    "contest_time": "1:50:03.865",
+    "team_id": "team10",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/88/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 88,
+    "id": "88",
+    "entry_point": "d.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:51:52.556-05:00",
+    "contest_time": "1:51:52.556",
+    "team_id": "team25",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/89/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 89,
+    "id": "89",
+    "entry_point": "ejercicio_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:55:34.504-05:00",
+    "contest_time": "1:55:34.504",
+    "team_id": "team01",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/90/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 90,
+    "id": "90",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:56:45.065-05:00",
+    "contest_time": "1:56:45.065",
+    "team_id": "team10",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/91/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 91,
+    "id": "91",
+    "entry_point": "d.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T16:56:50.941-05:00",
+    "contest_time": "1:56:50.940",
+    "team_id": "team12",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/93/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 93,
+    "id": "93",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T16:58:37.418-05:00",
+    "contest_time": "1:58:37.418",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/94/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 94,
+    "id": "94",
+    "entry_point": "j_3.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:01:54.182-05:00",
+    "contest_time": "2:01:54.182",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/95/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 95,
+    "id": "95",
+    "entry_point": "j_3.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:02:42.560-05:00",
+    "contest_time": "2:02:42.559",
+    "team_id": "team19",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/96/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 96,
+    "id": "96",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:03:39.293-05:00",
+    "contest_time": "2:03:39.293",
+    "team_id": "team08",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/98/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 98,
+    "id": "98",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:07:00.684-05:00",
+    "contest_time": "2:07:00.684",
+    "team_id": "team22",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/100/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 100,
+    "id": "100",
+    "entry_point": "k.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:07:52.556-05:00",
+    "contest_time": "2:07:52.556",
+    "team_id": "team25",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/101/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 101,
+    "id": "101",
+    "entry_point": "ejercicio_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:08:43.636-05:00",
+    "contest_time": "2:08:43.636",
+    "team_id": "team10",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/102/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 102,
+    "id": "102",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:10:34.913-05:00",
+    "contest_time": "2:10:34.913",
+    "team_id": "team09",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/103/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 103,
+    "id": "103",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:17:07.206-05:00",
+    "contest_time": "2:17:07.206",
+    "team_id": "team06",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/104/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 104,
+    "id": "104",
+    "entry_point": "code_3.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:19:51.857-05:00",
+    "contest_time": "2:19:51.857",
+    "team_id": "team08",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/105/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 105,
+    "id": "105",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:20:11.140-05:00",
+    "contest_time": "2:20:11.140",
+    "team_id": "team08",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/106/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 106,
+    "id": "106",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:20:42.883-05:00",
+    "contest_time": "2:20:42.882",
+    "team_id": "team09",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/107/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 107,
+    "id": "107",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:20:54.169-05:00",
+    "contest_time": "2:20:54.169",
+    "team_id": "team17",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/108/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 108,
+    "id": "108",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:22:57.030-05:00",
+    "contest_time": "2:22:57.030",
+    "team_id": "team28",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/109/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 109,
+    "id": "109",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:25:51.092-05:00",
+    "contest_time": "2:25:51.092",
+    "team_id": "team08",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/110/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 110,
+    "id": "110",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:26:41.573-05:00",
+    "contest_time": "2:26:41.573",
+    "team_id": "team18",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/111/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 111,
+    "id": "111",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:26:53.761-05:00",
+    "contest_time": "2:26:53.760",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/112/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 112,
+    "id": "112",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:27:33.187-05:00",
+    "contest_time": "2:27:33.187",
+    "team_id": "team09",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/113/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 113,
+    "id": "113",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:30:16.241-05:00",
+    "contest_time": "2:30:16.241",
+    "team_id": "team12",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/114/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 114,
+    "id": "114",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:30:53.680-05:00",
+    "contest_time": "2:30:53.680",
+    "team_id": "team19",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/115/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 115,
+    "id": "115",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:31:19.079-05:00",
+    "contest_time": "2:31:19.079",
+    "team_id": "team22",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/117/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 117,
+    "id": "117",
+    "entry_point": "k.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:31:49.551-05:00",
+    "contest_time": "2:31:49.551",
+    "team_id": "team10",
+    "problem_id": "E",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/118/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 118,
+    "id": "118",
+    "entry_point": "e.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:31:54.329-05:00",
+    "contest_time": "2:31:54.329",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/119/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 119,
+    "id": "119",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:32:25.824-05:00",
+    "contest_time": "2:32:25.824",
+    "team_id": "team31",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/120/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 120,
+    "id": "120",
+    "entry_point": "El_Despertar_De_Los_Apus.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:34:17.978-05:00",
+    "contest_time": "2:34:17.978",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/121/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 121,
+    "id": "121",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:43:01.787-05:00",
+    "contest_time": "2:43:01.787",
+    "team_id": "team12",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/122/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 122,
+    "id": "122",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:46:17.843-05:00",
+    "contest_time": "2:46:17.843",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/123/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 123,
+    "id": "123",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:47:34.542-05:00",
+    "contest_time": "2:47:34.542",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/124/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 124,
+    "id": "124",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:49:39.313-05:00",
+    "contest_time": "2:49:39.313",
+    "team_id": "team08",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/125/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 125,
+    "id": "125",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:50:39.177-05:00",
+    "contest_time": "2:50:39.177",
+    "team_id": "team07",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/126/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 126,
+    "id": "126",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:51:56.718-05:00",
+    "contest_time": "2:51:56.718",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/128/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 128,
+    "id": "128",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:52:10.996-05:00",
+    "contest_time": "2:52:10.996",
+    "team_id": "team07",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/129/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 129,
+    "id": "129",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T17:52:49.982-05:00",
+    "contest_time": "2:52:49.982",
+    "team_id": "team14",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/130/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 130,
+    "id": "130",
+    "entry_point": "ProblemaB.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:53:15.236-05:00",
+    "contest_time": "2:53:15.236",
+    "team_id": "team18",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/131/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 131,
+    "id": "131",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:55:52.377-05:00",
+    "contest_time": "2:55:52.377",
+    "team_id": "team02",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/132/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 132,
+    "id": "132",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:58:04.913-05:00",
+    "contest_time": "2:58:04.913",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/133/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 133,
+    "id": "133",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:58:44.051-05:00",
+    "contest_time": "2:58:44.051",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/134/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 134,
+    "id": "134",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T17:58:47.473-05:00",
+    "contest_time": "2:58:47.473",
+    "team_id": "team02",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/135/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 135,
+    "id": "135",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:01:43.886-05:00",
+    "contest_time": "3:01:43.886",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/136/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 136,
+    "id": "136",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:06:00.645-05:00",
+    "contest_time": "3:06:00.645",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/138/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 138,
+    "id": "138",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:07:36.102-05:00",
+    "contest_time": "3:07:36.102",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/139/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 139,
+    "id": "139",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:08:25.477-05:00",
+    "contest_time": "3:08:25.477",
+    "team_id": "team10",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/140/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 140,
+    "id": "140",
+    "entry_point": "k.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:09:31.181-05:00",
+    "contest_time": "3:09:31.181",
+    "team_id": "team04",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/141/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 141,
+    "id": "141",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:11:00.791-05:00",
+    "contest_time": "3:11:00.791",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/142/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 142,
+    "id": "142",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:12:04.434-05:00",
+    "contest_time": "3:12:04.434",
+    "team_id": "team05",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/143/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 143,
+    "id": "143",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:14:08.893-05:00",
+    "contest_time": "3:14:08.893",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/144/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 144,
+    "id": "144",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:14:50.532-05:00",
+    "contest_time": "3:14:50.532",
+    "team_id": "team08",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/145/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 145,
+    "id": "145",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:15:35.036-05:00",
+    "contest_time": "3:15:35.036",
+    "team_id": "team35",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/146/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 146,
+    "id": "146",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:16:13.055-05:00",
+    "contest_time": "3:16:13.055",
+    "team_id": "team18",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/147/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 147,
+    "id": "147",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:19:35.849-05:00",
+    "contest_time": "3:19:35.849",
+    "team_id": "team35",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/149/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 149,
+    "id": "149",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:20:30.671-05:00",
+    "contest_time": "3:20:30.671",
+    "team_id": "team22",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/150/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 150,
+    "id": "150",
+    "entry_point": "B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:20:41.170-05:00",
+    "contest_time": "3:20:41.170",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/151/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 151,
+    "id": "151",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:24:33.762-05:00",
+    "contest_time": "3:24:33.762",
+    "team_id": "team22",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/153/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 153,
+    "id": "153",
+    "entry_point": "B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:25:02.895-05:00",
+    "contest_time": "3:25:02.895",
+    "team_id": "team31",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/154/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 154,
+    "id": "154",
+    "entry_point": "El_Despertar_De_Los_Apus.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:25:35.329-05:00",
+    "contest_time": "3:25:35.329",
+    "team_id": "team01",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/155/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 155,
+    "id": "155",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:26:05.749-05:00",
+    "contest_time": "3:26:05.749",
+    "team_id": "team08",
+    "problem_id": "F",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/156/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 156,
+    "id": "156",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:26:58.901-05:00",
+    "contest_time": "3:26:58.901",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/157/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 157,
+    "id": "157",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:27:39.098-05:00",
+    "contest_time": "3:27:39.098",
+    "team_id": "team05",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/158/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 158,
+    "id": "158",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:29:59.938-05:00",
+    "contest_time": "3:29:59.938",
+    "team_id": "team35",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/159/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 159,
+    "id": "159",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:30:51.485-05:00",
+    "contest_time": "3:30:51.485",
+    "team_id": "team04",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/160/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 160,
+    "id": "160",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:32:01.235-05:00",
+    "contest_time": "3:32:01.234",
+    "team_id": "team35",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/161/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 161,
+    "id": "161",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:34:20.846-05:00",
+    "contest_time": "3:34:20.846",
+    "team_id": "team08",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/162/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 162,
+    "id": "162",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:36:59.301-05:00",
+    "contest_time": "3:36:59.301",
+    "team_id": "team31",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/163/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 163,
+    "id": "163",
+    "entry_point": "El_Despertar_De_Los_Apus.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:37:01.391-05:00",
+    "contest_time": "3:37:01.391",
+    "team_id": "team22",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/164/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 164,
+    "id": "164",
+    "entry_point": "B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:37:05.894-05:00",
+    "contest_time": "3:37:05.894",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/165/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 165,
+    "id": "165",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:40:48.011-05:00",
+    "contest_time": "3:40:48.011",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/166/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 166,
+    "id": "166",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:43:09.454-05:00",
+    "contest_time": "3:43:09.454",
+    "team_id": "team10",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/167/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 167,
+    "id": "167",
+    "entry_point": "g.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:44:02.601-05:00",
+    "contest_time": "3:44:02.601",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/168/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 168,
+    "id": "168",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:51:36.204-05:00",
+    "contest_time": "3:51:36.204",
+    "team_id": "team01",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/170/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 170,
+    "id": "170",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:52:23.081-05:00",
+    "contest_time": "3:52:23.081",
+    "team_id": "team31",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/171/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 171,
+    "id": "171",
+    "entry_point": "El_Despertar_De_Los_Apus.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:52:40.432-05:00",
+    "contest_time": "3:52:40.432",
+    "team_id": "team10",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/172/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 172,
+    "id": "172",
+    "entry_point": "a2.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:54:04.032-05:00",
+    "contest_time": "3:54:04.032",
+    "team_id": "team09",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/173/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 173,
+    "id": "173",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:54:53.203-05:00",
+    "contest_time": "3:54:53.203",
+    "team_id": "team27",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/174/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 174,
+    "id": "174",
+    "entry_point": "PROBLEMA_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:55:01.493-05:00",
+    "contest_time": "3:55:01.493",
+    "team_id": "team07",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/175/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 175,
+    "id": "175",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:55:11.918-05:00",
+    "contest_time": "3:55:11.918",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/176/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 176,
+    "id": "176",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:56:28.046-05:00",
+    "contest_time": "3:56:28.046",
+    "team_id": "team13",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/177/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 177,
+    "id": "177",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T18:57:39.668-05:00",
+    "contest_time": "3:57:39.668",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/178/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 178,
+    "id": "178",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:57:43.717-05:00",
+    "contest_time": "3:57:43.717",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/179/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 179,
+    "id": "179",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T18:57:47.750-05:00",
+    "contest_time": "3:57:47.750",
+    "team_id": "team13",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/180/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 180,
+    "id": "180",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:00:00.531-05:00",
+    "contest_time": "4:00:00.531",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/181/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 181,
+    "id": "181",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:00:54.271-05:00",
+    "contest_time": "4:00:54.271",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/182/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 182,
+    "id": "182",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:00:58.547-05:00",
+    "contest_time": "4:00:58.547",
+    "team_id": "team10",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/183/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 183,
+    "id": "183",
+    "entry_point": "b.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:02:07.947-05:00",
+    "contest_time": "4:02:07.947",
+    "team_id": "team12",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/184/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 184,
+    "id": "184",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:03:49.551-05:00",
+    "contest_time": "4:03:49.551",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/185/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 185,
+    "id": "185",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:04:33.532-05:00",
+    "contest_time": "4:04:33.532",
+    "team_id": "team25",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/186/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 186,
+    "id": "186",
+    "entry_point": "EJRCICIO_h.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:04:39.754-05:00",
+    "contest_time": "4:04:39.754",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/187/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 187,
+    "id": "187",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:04:49.610-05:00",
+    "contest_time": "4:04:49.610",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/188/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 188,
+    "id": "188",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:05:13.134-05:00",
+    "contest_time": "4:05:13.134",
+    "team_id": "team35",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/189/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 189,
+    "id": "189",
+    "entry_point": "d.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:05:20.052-05:00",
+    "contest_time": "4:05:20.052",
+    "team_id": "team08",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/190/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 190,
+    "id": "190",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:05:45.637-05:00",
+    "contest_time": "4:05:45.637",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/191/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 191,
+    "id": "191",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:06:48.713-05:00",
+    "contest_time": "4:06:48.713",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/192/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 192,
+    "id": "192",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:06:49.560-05:00",
+    "contest_time": "4:06:49.560",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/193/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 193,
+    "id": "193",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:07:04.979-05:00",
+    "contest_time": "4:07:04.979",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/194/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 194,
+    "id": "194",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:07:12.349-05:00",
+    "contest_time": "4:07:12.349",
+    "team_id": "team08",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/195/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 195,
+    "id": "195",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:08:47.956-05:00",
+    "contest_time": "4:08:47.956",
+    "team_id": "team12",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/196/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 196,
+    "id": "196",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:08:47.958-05:00",
+    "contest_time": "4:08:47.958",
+    "team_id": "team28",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/197/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 197,
+    "id": "197",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:09:21.918-05:00",
+    "contest_time": "4:09:21.917",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/198/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 198,
+    "id": "198",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:10:19.145-05:00",
+    "contest_time": "4:10:19.145",
+    "team_id": "team02",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/199/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 199,
+    "id": "199",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:12:48.462-05:00",
+    "contest_time": "4:12:48.462",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/200/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 200,
+    "id": "200",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:13:18.103-05:00",
+    "contest_time": "4:13:18.103",
+    "team_id": "team19",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/201/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 201,
+    "id": "201",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:13:40.503-05:00",
+    "contest_time": "4:13:40.503",
+    "team_id": "team14",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/202/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 202,
+    "id": "202",
+    "entry_point": "ProblemaB.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:13:49.696-05:00",
+    "contest_time": "4:13:49.696",
+    "team_id": "team28",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/203/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 203,
+    "id": "203",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:14:46.618-05:00",
+    "contest_time": "4:14:46.618",
+    "team_id": "team19",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/204/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 204,
+    "id": "204",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:15:16.157-05:00",
+    "contest_time": "4:15:16.157",
+    "team_id": "team13",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/205/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 205,
+    "id": "205",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:15:25.756-05:00",
+    "contest_time": "4:15:25.756",
+    "team_id": "team12",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/206/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 206,
+    "id": "206",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:15:49.087-05:00",
+    "contest_time": "4:15:49.087",
+    "team_id": "team27",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/207/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 207,
+    "id": "207",
+    "entry_point": "PROBLEMA_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:16:01.739-05:00",
+    "contest_time": "4:16:01.739",
+    "team_id": "team06",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/208/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 208,
+    "id": "208",
+    "entry_point": "code_4.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:18:37.648-05:00",
+    "contest_time": "4:18:37.648",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/209/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 209,
+    "id": "209",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:18:57.710-05:00",
+    "contest_time": "4:18:57.710",
+    "team_id": "team19",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/210/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 210,
+    "id": "210",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:20:24.115-05:00",
+    "contest_time": "4:20:24.115",
+    "team_id": "team13",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/211/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 211,
+    "id": "211",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:22:00.960-05:00",
+    "contest_time": "4:22:00.960",
+    "team_id": "team13",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/212/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 212,
+    "id": "212",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:22:42.572-05:00",
+    "contest_time": "4:22:42.572",
+    "team_id": "team35",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/213/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 213,
+    "id": "213",
+    "entry_point": "d.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:22:54.940-05:00",
+    "contest_time": "4:22:54.940",
+    "team_id": "team22",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/214/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 214,
+    "id": "214",
+    "entry_point": "D.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:24:30.714-05:00",
+    "contest_time": "4:24:30.714",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/215/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 215,
+    "id": "215",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:24:37.479-05:00",
+    "contest_time": "4:24:37.479",
+    "team_id": "team28",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/216/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 216,
+    "id": "216",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:24:38.542-05:00",
+    "contest_time": "4:24:38.542",
+    "team_id": "team08",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/217/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 217,
+    "id": "217",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:25:16.493-05:00",
+    "contest_time": "4:25:16.493",
+    "team_id": "team09",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/218/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 218,
+    "id": "218",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:25:48.414-05:00",
+    "contest_time": "4:25:48.414",
+    "team_id": "team28",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/219/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 219,
+    "id": "219",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:26:04.673-05:00",
+    "contest_time": "4:26:04.673",
+    "team_id": "team08",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/220/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 220,
+    "id": "220",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:26:37.882-05:00",
+    "contest_time": "4:26:37.882",
+    "team_id": "team31",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/221/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 221,
+    "id": "221",
+    "entry_point": "El_Despertar_De_Los_Apus.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:26:47.142-05:00",
+    "contest_time": "4:26:47.141",
+    "team_id": "team17",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/222/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 222,
+    "id": "222",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:29:05.536-05:00",
+    "contest_time": "4:29:05.536",
+    "team_id": "team15",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/223/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 223,
+    "id": "223",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:29:32.443-05:00",
+    "contest_time": "4:29:32.443",
+    "team_id": "team35",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/224/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 224,
+    "id": "224",
+    "entry_point": "g.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:30:31.948-05:00",
+    "contest_time": "4:30:31.947",
+    "team_id": "team27",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/225/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 225,
+    "id": "225",
+    "entry_point": "PROBLEMA_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:30:47.604-05:00",
+    "contest_time": "4:30:47.604",
+    "team_id": "team35",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/226/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 226,
+    "id": "226",
+    "entry_point": "g.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:31:08.574-05:00",
+    "contest_time": "4:31:08.574",
+    "team_id": "team01",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/227/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 227,
+    "id": "227",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:31:46.828-05:00",
+    "contest_time": "4:31:46.828",
+    "team_id": "team35",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/228/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 228,
+    "id": "228",
+    "entry_point": "g.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:31:58.123-05:00",
+    "contest_time": "4:31:58.123",
+    "team_id": "team10",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/229/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 229,
+    "id": "229",
+    "entry_point": "a2.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:32:52.232-05:00",
+    "contest_time": "4:32:52.232",
+    "team_id": "team15",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/230/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 230,
+    "id": "230",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:33:40.238-05:00",
+    "contest_time": "4:33:40.237",
+    "team_id": "team13",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/231/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 231,
+    "id": "231",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:33:44.854-05:00",
+    "contest_time": "4:33:44.854",
+    "team_id": "team18",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/232/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 232,
+    "id": "232",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:33:52.654-05:00",
+    "contest_time": "4:33:52.654",
+    "team_id": "team08",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/233/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 233,
+    "id": "233",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:34:15.261-05:00",
+    "contest_time": "4:34:15.261",
+    "team_id": "team35",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/234/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 234,
+    "id": "234",
+    "entry_point": "g.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:35:20.203-05:00",
+    "contest_time": "4:35:20.203",
+    "team_id": "team15",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/235/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 235,
+    "id": "235",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:36:24.727-05:00",
+    "contest_time": "4:36:24.727",
+    "team_id": "team13",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/236/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 236,
+    "id": "236",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:37:45.406-05:00",
+    "contest_time": "4:37:45.406",
+    "team_id": "team15",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/237/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 237,
+    "id": "237",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:40:55.602-05:00",
+    "contest_time": "4:40:55.602",
+    "team_id": "team25",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/238/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 238,
+    "id": "238",
+    "entry_point": "ejercicio_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:41:39.399-05:00",
+    "contest_time": "4:41:39.399",
+    "team_id": "team16",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/239/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 239,
+    "id": "239",
+    "entry_point": "C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:41:43.675-05:00",
+    "contest_time": "4:41:43.675",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/240/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 240,
+    "id": "240",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:42:14.848-05:00",
+    "contest_time": "4:42:14.848",
+    "team_id": "team13",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/241/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 241,
+    "id": "241",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:43:10.678-05:00",
+    "contest_time": "4:43:10.677",
+    "team_id": "team15",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/242/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 242,
+    "id": "242",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:43:48.700-05:00",
+    "contest_time": "4:43:48.700",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/243/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 243,
+    "id": "243",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:43:59.864-05:00",
+    "contest_time": "4:43:59.864",
+    "team_id": "team08",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/244/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 244,
+    "id": "244",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:44:01.998-05:00",
+    "contest_time": "4:44:01.998",
+    "team_id": "team18",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/245/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 245,
+    "id": "245",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:44:12.399-05:00",
+    "contest_time": "4:44:12.399",
+    "team_id": "team35",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/246/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 246,
+    "id": "246",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:45:01.203-05:00",
+    "contest_time": "4:45:01.203",
+    "team_id": "team01",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/247/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 247,
+    "id": "247",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:46:17.305-05:00",
+    "contest_time": "4:46:17.305",
+    "team_id": "team31",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/248/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 248,
+    "id": "248",
+    "entry_point": "El_Altar_Equilibrado.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:47:02.009-05:00",
+    "contest_time": "4:47:02.009",
+    "team_id": "team02",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/249/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 249,
+    "id": "249",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:47:15.224-05:00",
+    "contest_time": "4:47:15.224",
+    "team_id": "team02",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/250/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 250,
+    "id": "250",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:48:43.324-05:00",
+    "contest_time": "4:48:43.324",
+    "team_id": "team17",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/251/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 251,
+    "id": "251",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:48:46.181-05:00",
+    "contest_time": "4:48:46.181",
+    "team_id": "team28",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/252/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 252,
+    "id": "252",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:49:42.515-05:00",
+    "contest_time": "4:49:42.515",
+    "team_id": "team17",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/253/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 253,
+    "id": "253",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:49:53.094-05:00",
+    "contest_time": "4:49:53.094",
+    "team_id": "team18",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/254/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 254,
+    "id": "254",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:49:58.985-05:00",
+    "contest_time": "4:49:58.985",
+    "team_id": "team02",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/255/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 255,
+    "id": "255",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:51:28.949-05:00",
+    "contest_time": "4:51:28.949",
+    "team_id": "team17",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/256/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 256,
+    "id": "256",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:51:35.322-05:00",
+    "contest_time": "4:51:35.322",
+    "team_id": "team35",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/257/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 257,
+    "id": "257",
+    "entry_point": "d_superior.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:51:56.544-05:00",
+    "contest_time": "4:51:56.544",
+    "team_id": "team27",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/258/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 258,
+    "id": "258",
+    "entry_point": "PROBLEMA_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:52:07.490-05:00",
+    "contest_time": "4:52:07.490",
+    "team_id": "team17",
+    "problem_id": "K",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/259/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 259,
+    "id": "259",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:52:09.888-05:00",
+    "contest_time": "4:52:09.888",
+    "team_id": "team10",
+    "problem_id": "E",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/260/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 260,
+    "id": "260",
+    "entry_point": "e.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:52:28.649-05:00",
+    "contest_time": "4:52:28.649",
+    "team_id": "team05",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/261/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 261,
+    "id": "261",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:52:30.586-05:00",
+    "contest_time": "4:52:30.586",
+    "team_id": "team12",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/262/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 262,
+    "id": "262",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:53:37.419-05:00",
+    "contest_time": "4:53:37.419",
+    "team_id": "team05",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/263/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 263,
+    "id": "263",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:53:54.611-05:00",
+    "contest_time": "4:53:54.611",
+    "team_id": "team05",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/264/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 264,
+    "id": "264",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:54:11.674-05:00",
+    "contest_time": "4:54:11.674",
+    "team_id": "team02",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/265/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 265,
+    "id": "265",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:54:24.822-05:00",
+    "contest_time": "4:54:24.822",
+    "team_id": "team25",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/266/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 266,
+    "id": "266",
+    "entry_point": "ejercicio_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:55:00.060-05:00",
+    "contest_time": "4:55:00.060",
+    "team_id": "team25",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/267/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 267,
+    "id": "267",
+    "entry_point": "ejercicio_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:55:13.570-05:00",
+    "contest_time": "4:55:13.570",
+    "team_id": "team10",
+    "problem_id": "E",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/268/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 268,
+    "id": "268",
+    "entry_point": "e.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:55:28.545-05:00",
+    "contest_time": "4:55:28.545",
+    "team_id": "team22",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/269/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 269,
+    "id": "269",
+    "entry_point": "H.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:55:37.669-05:00",
+    "contest_time": "4:55:37.668",
+    "team_id": "team05",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/270/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 270,
+    "id": "270",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:55:40.494-05:00",
+    "contest_time": "4:55:40.494",
+    "team_id": "team02",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/271/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 271,
+    "id": "271",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:55:48.345-05:00",
+    "contest_time": "4:55:48.345",
+    "team_id": "team22",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/272/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 272,
+    "id": "272",
+    "entry_point": "H.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:55:51.769-05:00",
+    "contest_time": "4:55:51.769",
+    "team_id": "team09",
+    "problem_id": "J",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/273/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 273,
+    "id": "273",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:55:57.453-05:00",
+    "contest_time": "4:55:57.453",
+    "team_id": "team05",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/274/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 274,
+    "id": "274",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:56:27.887-05:00",
+    "contest_time": "4:56:27.887",
+    "team_id": "team13",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/275/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 275,
+    "id": "275",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:56:46.273-05:00",
+    "contest_time": "4:56:46.273",
+    "team_id": "team27",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/276/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 276,
+    "id": "276",
+    "entry_point": "PROBLEMA_B.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:56:59.963-05:00",
+    "contest_time": "4:56:59.963",
+    "team_id": "team04",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/277/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 277,
+    "id": "277",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:57:07.037-05:00",
+    "contest_time": "4:57:07.037",
+    "team_id": "team27",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/278/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 278,
+    "id": "278",
+    "entry_point": "PROBLEMA_C.py",
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:57:11.977-05:00",
+    "contest_time": "4:57:11.977",
+    "team_id": "team22",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/279/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 279,
+    "id": "279",
+    "entry_point": "H.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:57:12.588-05:00",
+    "contest_time": "4:57:12.588",
+    "team_id": "team08",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/280/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 280,
+    "id": "280",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:57:42.463-05:00",
+    "contest_time": "4:57:42.463",
+    "team_id": "team05",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/281/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 281,
+    "id": "281",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:57:59.699-05:00",
+    "contest_time": "4:57:59.699",
+    "team_id": "team19",
+    "problem_id": "B",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/282/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 282,
+    "id": "282",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:58:01.769-05:00",
+    "contest_time": "4:58:01.769",
+    "team_id": "team35",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/283/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 283,
+    "id": "283",
+    "entry_point": "d.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:58:34.140-05:00",
+    "contest_time": "4:58:34.140",
+    "team_id": "team04",
+    "problem_id": "A",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/284/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 284,
+    "id": "284",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:58:46.177-05:00",
+    "contest_time": "4:58:46.177",
+    "team_id": "team08",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/285/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 285,
+    "id": "285",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:59:08.718-05:00",
+    "contest_time": "4:59:08.718",
+    "team_id": "team08",
+    "problem_id": "H",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/286/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 286,
+    "id": "286",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T19:59:35.235-05:00",
+    "contest_time": "4:59:35.235",
+    "team_id": "team02",
+    "problem_id": "G",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/287/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 287,
+    "id": "287",
+    "entry_point": null,
+    "import_error": null
+  },
+  {
+    "language_id": "python3",
+    "time": "2026-08-06T19:59:57.327-05:00",
+    "contest_time": "4:59:57.327",
+    "team_id": "team14",
+    "problem_id": "C",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/288/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 288,
+    "id": "288",
+    "entry_point": "ProblemaC.py",
+    "import_error": null
+  },
+  {
+    "language_id": "cpp",
+    "time": "2026-08-06T20:00:39.776-05:00",
+    "contest_time": "5:00:39.776",
+    "team_id": "team13",
+    "problem_id": "D",
+    "files": [
+      {
+        "href": "contests/cuscontestXXV/submissions/289/files",
+        "mime": "application/zip",
+        "filename": "submission.zip"
+      }
+    ],
+    "submitid": 289,
+    "id": "289",
+    "entry_point": null,
+    "import_error": null
+  }
+]

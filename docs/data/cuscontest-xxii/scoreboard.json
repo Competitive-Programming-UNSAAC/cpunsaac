@@ -1,0 +1,6907 @@
+{
+  "event_id": "cuscontestXXII",
+  "state": {
+    "started": null,
+    "ended": null,
+    "finalized": null
+  },
+  "rows": [
+    {
+      "rank": 1,
+      "team_id": "team04",
+      "score": {
+        "num_solved": 10,
+        "total_time": 1440
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 46
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 126
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 193
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 298
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 254
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 34
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 7
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 176
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 68
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 58
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 2,
+      "team_id": "team36",
+      "score": {
+        "num_solved": 8,
+        "total_time": 687
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 45
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 112
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 99
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 25
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 18
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 184
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 67
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 37
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 3,
+      "team_id": "team40",
+      "score": {
+        "num_solved": 8,
+        "total_time": 935
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 132
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 163
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 298
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 18
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 37
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 104
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 62
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 61
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 4,
+      "team_id": "team03",
+      "score": {
+        "num_solved": 7,
+        "total_time": 801
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 77
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 226
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 23
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 38
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 194
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 86
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 57
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 5,
+      "team_id": "team30",
+      "score": {
+        "num_solved": 7,
+        "total_time": 834
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 236
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 58
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 31
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 178
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 77
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 91
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 6,
+      "team_id": "team26",
+      "score": {
+        "num_solved": 7,
+        "total_time": 840
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 117
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 224
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 85
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 11
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 183
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 64
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 7,
+      "team_id": "team44",
+      "score": {
+        "num_solved": 6,
+        "total_time": 577
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 91
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 254
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 35
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 8
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": true,
+          "time": 40
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 129
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 8,
+      "team_id": "team48",
+      "score": {
+        "num_solved": 6,
+        "total_time": 918
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 166
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 90
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 45
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 241
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 64
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 192
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 9,
+      "team_id": "team18",
+      "score": {
+        "num_solved": 6,
+        "total_time": 931
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 248
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 93
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 37
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 241
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 95
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 137
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 10,
+      "team_id": "team45",
+      "score": {
+        "num_solved": 5,
+        "total_time": 680
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 95
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 66
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 199
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 11,
+      "team_id": "team29",
+      "score": {
+        "num_solved": 5,
+        "total_time": 702
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 171
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 133
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 46
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 105
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 167
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 12,
+      "team_id": "team23",
+      "score": {
+        "num_solved": 4,
+        "total_time": 468
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 198
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 39
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 57
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 74
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 13,
+      "team_id": "team55",
+      "score": {
+        "num_solved": 4,
+        "total_time": 522
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 207
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 45
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 111
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 99
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 14,
+      "team_id": "team13",
+      "score": {
+        "num_solved": 4,
+        "total_time": 573
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 232
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 53
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 116
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 72
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 15,
+      "team_id": "team37",
+      "score": {
+        "num_solved": 4,
+        "total_time": 578
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 101
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 51
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 293
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 113
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 16,
+      "team_id": "team19",
+      "score": {
+        "num_solved": 4,
+        "total_time": 586
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 233
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 191
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 51
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 71
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 17,
+      "team_id": "team28",
+      "score": {
+        "num_solved": 4,
+        "total_time": 611
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 282
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 212
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 26
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 71
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 18,
+      "team_id": "team46",
+      "score": {
+        "num_solved": 4,
+        "total_time": 1170
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 196
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 212
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 108
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 13,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 274
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 19,
+      "team_id": "team24",
+      "score": {
+        "num_solved": 3,
+        "total_time": 186
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 56
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 23
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 87
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 20,
+      "team_id": "team09",
+      "score": {
+        "num_solved": 3,
+        "total_time": 292
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 118
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 19
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 135
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 21,
+      "team_id": "team27",
+      "score": {
+        "num_solved": 3,
+        "total_time": 298
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 166
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 23
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 69
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 22,
+      "team_id": "team25",
+      "score": {
+        "num_solved": 3,
+        "total_time": 318
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 131
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 40
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 127
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 23,
+      "team_id": "team16",
+      "score": {
+        "num_solved": 3,
+        "total_time": 353
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 56
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 194
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 24,
+      "team_id": "team20",
+      "score": {
+        "num_solved": 3,
+        "total_time": 416
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 190
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 31
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 135
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 25,
+      "team_id": "team11",
+      "score": {
+        "num_solved": 3,
+        "total_time": 418
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 231
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 57
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 90
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 26,
+      "team_id": "team06",
+      "score": {
+        "num_solved": 3,
+        "total_time": 421
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 45
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 24
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 272
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 27,
+      "team_id": "team15",
+      "score": {
+        "num_solved": 3,
+        "total_time": 437
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 131
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 35
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 231
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 28,
+      "team_id": "team35",
+      "score": {
+        "num_solved": 3,
+        "total_time": 447
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 145
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 159
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 29,
+      "team_id": "team07",
+      "score": {
+        "num_solved": 3,
+        "total_time": 461
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 251
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 75
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 135
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 30,
+      "team_id": "team39",
+      "score": {
+        "num_solved": 3,
+        "total_time": 498
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 225
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 108
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 145
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 31,
+      "team_id": "team08",
+      "score": {
+        "num_solved": 3,
+        "total_time": 500
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 115
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 165
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 180
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 32,
+      "team_id": "team12",
+      "score": {
+        "num_solved": 3,
+        "total_time": 517
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 211
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 68
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 198
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 33,
+      "team_id": "team56",
+      "score": {
+        "num_solved": 3,
+        "total_time": 526
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 175
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 79
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 252
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 34,
+      "team_id": "team14",
+      "score": {
+        "num_solved": 3,
+        "total_time": 541
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 289
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 65
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 127
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 35,
+      "team_id": "team57",
+      "score": {
+        "num_solved": 3,
+        "total_time": 743
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 278
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 233
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 232
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 36,
+      "team_id": "team22",
+      "score": {
+        "num_solved": 3,
+        "total_time": 859
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 232
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 272
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 175
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 37,
+      "team_id": "team05",
+      "score": {
+        "num_solved": 2,
+        "total_time": 135
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 110
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 25
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 38,
+      "team_id": "team10",
+      "score": {
+        "num_solved": 2,
+        "total_time": 146
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 39
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 107
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 39,
+      "team_id": "team31",
+      "score": {
+        "num_solved": 2,
+        "total_time": 181
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 97
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 44
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 40,
+      "team_id": "team21",
+      "score": {
+        "num_solved": 2,
+        "total_time": 181
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 52
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 129
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 41,
+      "team_id": "team47",
+      "score": {
+        "num_solved": 2,
+        "total_time": 285
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 100
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 185
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 42,
+      "team_id": "team33",
+      "score": {
+        "num_solved": 2,
+        "total_time": 303
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 103
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 120
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 43,
+      "team_id": "team51",
+      "score": {
+        "num_solved": 2,
+        "total_time": 348
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 104
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 224
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 44,
+      "team_id": "team49",
+      "score": {
+        "num_solved": 2,
+        "total_time": 386
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 110
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 176
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 6,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 45,
+      "team_id": "team17",
+      "score": {
+        "num_solved": 2,
+        "total_time": 395
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 83
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 232
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 46,
+      "team_id": "team41",
+      "score": {
+        "num_solved": 2,
+        "total_time": 425
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 5,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 135
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 190
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 47,
+      "team_id": "team34",
+      "score": {
+        "num_solved": 2,
+        "total_time": 495
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 177
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 238
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 48,
+      "team_id": "team42",
+      "score": {
+        "num_solved": 2,
+        "total_time": 556
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 13,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 234
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 82
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 49,
+      "team_id": "team50",
+      "score": {
+        "num_solved": 2,
+        "total_time": 580
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 219
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 261
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 50,
+      "team_id": "team38",
+      "score": {
+        "num_solved": 2,
+        "total_time": 645
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 295
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 7,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 230
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 51,
+      "team_id": "team53",
+      "score": {
+        "num_solved": 1,
+        "total_time": 90
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 2,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 70
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 4,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 52,
+      "team_id": "team32",
+      "score": {
+        "num_solved": 1,
+        "total_time": 133
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": true,
+          "first_to_solve": false,
+          "time": 133
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 3,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 53,
+      "team_id": "team43",
+      "score": {
+        "num_solved": 0,
+        "total_time": 0
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 54,
+      "team_id": "team54",
+      "score": {
+        "num_solved": 0,
+        "total_time": 0
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    },
+    {
+      "rank": 55,
+      "team_id": "team52",
+      "score": {
+        "num_solved": 0,
+        "total_time": 0
+      },
+      "problems": [
+        {
+          "label": "A",
+          "problem_id": "A",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "B",
+          "problem_id": "B",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "C",
+          "problem_id": "C",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "D",
+          "problem_id": "D",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "E",
+          "problem_id": "E",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "F",
+          "problem_id": "F",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "G",
+          "problem_id": "G",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "H",
+          "problem_id": "H",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "I",
+          "problem_id": "I",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "J",
+          "problem_id": "J",
+          "num_judged": 1,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "K",
+          "problem_id": "K",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "L",
+          "problem_id": "L",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "M",
+          "problem_id": "M",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        },
+        {
+          "label": "N",
+          "problem_id": "N",
+          "num_judged": 0,
+          "num_pending": 0,
+          "solved": false,
+          "first_to_solve": false
+        }
+      ]
+    }
+  ]
+}

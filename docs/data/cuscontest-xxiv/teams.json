@@ -1,0 +1,340 @@
+[
+  {
+    "id": "team22",
+    "name": "chamsid p4l3t4s0",
+    "display_name": "chamsid p4l3t4s0",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- jose daniel mendoza quispe\n- rayneld fidel castro pari\n- yamir wagner florez vega"
+  },
+  {
+    "id": "team05",
+    "name": "no, enserio?",
+    "display_name": "no, enserio?",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Diego Alonso Quispe Castilla\n- Jhon Efrain Quispe Chura\n- Alvaro Alonso Ayte Noa"
+  },
+  {
+    "id": "team10",
+    "name": "Votemos por MIA KHA LEE FA",
+    "display_name": "Votemos por MIA KHA LEE FA",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Andric Jeremy Bueno Lescano\n- David Fernando Prieto Cardoso\n- Ismael Gerson Ramos Alvarez"
+  },
+  {
+    "id": "team12",
+    "name": "Milk500",
+    "display_name": "Milk500",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- GABRIEL CALEB SUCA HILARES\n- ADRIEL ALFREDO LLACTAHUAMANI AYALA\n- YON AGUILAR QUISPE"
+  },
+  {
+    "id": "team13",
+    "name": "Mariscos del Cielo",
+    "display_name": "Mariscos del Cielo",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- ELBERT CESAR SANCHEZ CHACON\n- MARICIELO ANTONIETA ZAVALA UCHUPE\n- STEFFANO RICARDO CABALLERO ZEGARRA"
+  },
+  {
+    "id": "team27",
+    "name": "Sin amigos",
+    "display_name": "Sin amigos",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Supa Cusiparucar Yeferson"
+  },
+  {
+    "id": "team19",
+    "name": "Superpoderosas",
+    "display_name": "Superpoderosas",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Adel Alejandro Merma Ccarhuarupay\n- Emmi Daniela Huaman Tairo\n- Brenda Lucía Mayhuire Chacon"
+  },
+  {
+    "id": "team20",
+    "name": "Pixel Killers",
+    "display_name": "Pixel Killers",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Albert Erik Morocco Amanca\n- Orlando Clemente López"
+  },
+  {
+    "id": "team28",
+    "name": "Pandas",
+    "display_name": "Pandas",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Ccapatinta Qquecaño Dennis Moise\n- Aguilar Mainicta Gian Marco\n- Quispe Huanca Andy Yoseph"
+  },
+  {
+    "id": "team23",
+    "name": "Dayana y sus llamas",
+    "display_name": "Dayana y sus llamas",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Gisel Dayana Farfan Gomez\n- Flavio Antoni Cabeza Huillca\n- Brayan Sebastian Chavez Luna"
+  },
+  {
+    "id": "team16",
+    "name": "NoName",
+    "display_name": "NoName",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Denis Jair Cancinas Cardenas\n- Oscar David Barrientos Huillca\n- Brayan Rodrigo Quispe Castillo"
+  },
+  {
+    "id": "team25",
+    "name": "Gatito include",
+    "display_name": "Gatito include",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Fernandez Mercado Manuel"
+  },
+  {
+    "id": "team18",
+    "name": "Los MasoMenos",
+    "display_name": "Los MasoMenos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Ander Gabriel Alvarez Vargas\n- Brayan Isau Choque Mamani\n- Dany Darwin Huacani de la Cruz"
+  },
+  {
+    "id": "team11",
+    "name": "La panadería del pan - La Venganza",
+    "display_name": "La panadería del pan - La Venganza",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Cesar Ciro Olarte Bautista\n- Julio Cesar Sotelo Quispe\n- Giancarlo Apaza Mamani"
+  },
+  {
+    "id": "team17",
+    "name": "Jala2",
+    "display_name": "Jala2",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Raul Franshesco Vasquez Mamani\n- Mario Gabriel Melo Cajahuillca\n- Elvis Raul Suca hancco"
+  },
+  {
+    "id": "team04",
+    "name": "GPTUsers",
+    "display_name": "GPTUsers",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Eduardo Sebastian Achahui Jiménez\n- Peython Leoncio Cañihua Paz\n- Marco Abel Gallegos Silva"
+  },
+  {
+    "id": "team06",
+    "name": "Dos Miran....[Uno codea]",
+    "display_name": "Dos Miran....[Uno codea]",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Lym Kurth Puma Sullcapuma\n- Jorge Luis Quispe Teves\n- Renzo Sebastian Quispe Pinares"
+  },
+  {
+    "id": "team24",
+    "name": "Los pajaritos",
+    "display_name": "Los pajaritos",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Laurel Huaman Luis Humberto\n- Champi Pareja Diego Mauricio"
+  },
+  {
+    "id": "team09",
+    "name": "616",
+    "display_name": "616",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Camila Alexandra Fernández Puente de la Vega\n- Francesco Gabriel Canal Acevedo\n- Haylly Frank Mendoza Lapa"
+  },
+  {
+    "id": "team15",
+    "name": "Don Jungla y sus amigos",
+    "display_name": "Don Jungla y sus amigos",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Eduardo Jhosef Santos Pillco\n- Andy Jefferson Zevallos Yanqui\n- Kaled Salvador Yuca Chipana"
+  },
+  {
+    "id": "team07",
+    "name": "TOURIST ONE",
+    "display_name": "TOURIST ONE",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- romario quispe rimachi\n- MIGUEL ANGEL MOREANO VILLENA\n- NILSON LEONEL ZULOAGA CCOPA"
+  },
+  {
+    "id": "team14",
+    "name": "Alanokka prime",
+    "display_name": "Alanokka prime",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Domingo de Guzman Quispe Mamani\n- Patrick paul Ccoa Perez\n- Jack eliezer Titto Huaman"
+  },
+  {
+    "id": "team03",
+    "name": "Los MIA",
+    "display_name": "Los MIA",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Mirco Sair Salcedo Ataulluco\n- Waldo Erick Ibarra Castillo\n- Ronald Ytali Ccansaya"
+  },
+  {
+    "id": "team21",
+    "name": "Fullvaso",
+    "display_name": "Fullvaso",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jhon kevin Halanocca Surco\n- Frank Jhoel Yapo Huaraya"
+  },
+  {
+    "id": "team26",
+    "name": "Chupapi muñaño",
+    "display_name": "Chupapi muñaño",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Yupanqui Arocutipa Misael Jaret"
+  },
+  {
+    "id": "team08",
+    "name": "ZHY_TEAM",
+    "display_name": "ZHY_TEAM",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Abel Quispe Vargas\n- Yhojan Hilario Morocco Pinto\n- Yordy Wilfredo Champi Condori"
+  }
+]

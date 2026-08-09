@@ -1,0 +1,127 @@
+[
+  {
+    "shortname": "Avanzado",
+    "affilid": 4,
+    "id": "AVANZ",
+    "icpc_id": null,
+    "name": "Avanzado",
+    "formal_name": "Avanzado",
+    "country": "PER",
+    "country_flag": [
+      {
+        "href": "country-flags/PER/4x3",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-4x3.svg",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "href": "country-flags/PER/1x1",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-1x1.svg",
+        "width": 512,
+        "height": 512
+      }
+    ]
+  },
+  {
+    "shortname": "Elite",
+    "affilid": 5,
+    "id": "ELITE",
+    "icpc_id": null,
+    "name": "Elite",
+    "formal_name": "Elite",
+    "country": "PER",
+    "country_flag": [
+      {
+        "href": "country-flags/PER/4x3",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-4x3.svg",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "href": "country-flags/PER/1x1",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-1x1.svg",
+        "width": 512,
+        "height": 512
+      }
+    ]
+  },
+  {
+    "shortname": "Intermedio",
+    "affilid": 3,
+    "id": "INTER",
+    "icpc_id": null,
+    "name": "Intermedio",
+    "formal_name": "Intermedio",
+    "country": "PER",
+    "country_flag": [
+      {
+        "href": "country-flags/PER/4x3",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-4x3.svg",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "href": "country-flags/PER/1x1",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-1x1.svg",
+        "width": 512,
+        "height": 512
+      }
+    ]
+  },
+  {
+    "shortname": "Principiante",
+    "affilid": 2,
+    "id": "PRINC",
+    "icpc_id": null,
+    "name": "Principiante",
+    "formal_name": "Principiante",
+    "country": "PER",
+    "country_flag": [
+      {
+        "href": "country-flags/PER/4x3",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-4x3.svg",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "href": "country-flags/PER/1x1",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-1x1.svg",
+        "width": 512,
+        "height": 512
+      }
+    ]
+  },
+  {
+    "shortname": "UU",
+    "affilid": 1,
+    "id": "utrecht",
+    "icpc_id": null,
+    "name": "UU",
+    "formal_name": "Utrecht University",
+    "country": "NLD",
+    "country_flag": [
+      {
+        "href": "country-flags/NLD/4x3",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-4x3.svg",
+        "width": 640,
+        "height": 480
+      },
+      {
+        "href": "country-flags/NLD/1x1",
+        "mime": "image/svg+xml",
+        "filename": "country-flag-1x1.svg",
+        "width": 512,
+        "height": 512
+      }
+    ]
+  }
+]

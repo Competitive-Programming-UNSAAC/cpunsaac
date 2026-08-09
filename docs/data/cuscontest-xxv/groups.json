@@ -1,0 +1,82 @@
+[
+  {
+    "hidden": false,
+    "categoryid": 3,
+    "id": "participants",
+    "icpc_id": null,
+    "name": "Participants",
+    "sortorder": 0,
+    "color": null,
+    "allow_self_registration": false
+  },
+  {
+    "hidden": false,
+    "categoryid": 6,
+    "id": "contestants",
+    "icpc_id": null,
+    "name": "Participantes",
+    "sortorder": 0,
+    "color": null,
+    "allow_self_registration": false
+  },
+  {
+    "hidden": true,
+    "categoryid": 7,
+    "id": "spectators",
+    "icpc_id": null,
+    "name": "Espectadores",
+    "sortorder": 0,
+    "color": null,
+    "allow_self_registration": false
+  },
+  {
+    "hidden": false,
+    "categoryid": 4,
+    "id": "observers",
+    "icpc_id": null,
+    "name": "Observers",
+    "sortorder": 1,
+    "color": "#ffcc33",
+    "allow_self_registration": false
+  },
+  {
+    "hidden": true,
+    "categoryid": 5,
+    "id": "organization",
+    "icpc_id": null,
+    "name": "Organisation",
+    "sortorder": 1,
+    "color": "#ff99cc",
+    "allow_self_registration": false
+  },
+  {
+    "hidden": false,
+    "categoryid": 2,
+    "id": "self-registered",
+    "icpc_id": null,
+    "name": "Self-Registered",
+    "sortorder": 8,
+    "color": "#33cc44",
+    "allow_self_registration": false
+  },
+  {
+    "hidden": true,
+    "categoryid": 1,
+    "id": "system",
+    "icpc_id": null,
+    "name": "System",
+    "sortorder": 9,
+    "color": "#ff2bea",
+    "allow_self_registration": false
+  },
+  {
+    "hidden": true,
+    "categoryid": 8,
+    "id": "jury",
+    "icpc_id": null,
+    "name": "Jury",
+    "sortorder": 100,
+    "color": null,
+    "allow_self_registration": false
+  }
+]
