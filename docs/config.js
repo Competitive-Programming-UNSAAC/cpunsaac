@@ -34,6 +34,7 @@ const siteConfig = {
     { name: "Cuscontest XXII",  year: 2023, contestUrl: "http://codeforces.com/group/gHgjxYvnJD/contest/616018", scoreboardUrl: "./cuscontest-xxii/index.html", platform: "DOMjudge" },
     { name: "Cuscontest XXIII", year: 2024, contestUrl: "https://codeforces.com/group/gHgjxYvnJD/contest/646498", scoreboardUrl: "./cuscontest-xxiii/index.html", platform: "DOMjudge" },
     { name: "Cuscontest XXIV",  year: 2025, contestUrl: null, scoreboardUrl: "./cuscontest-xxiv/index.html", platform: "DOMjudge" },
+    { name: "Cuscontest XXV",   year: 2026, contestUrl: null, scoreboardUrl: "./cuscontest-xxv/index.html", platform: "DOMjudge" },
   ],
 
   scoreboardGrid: {
