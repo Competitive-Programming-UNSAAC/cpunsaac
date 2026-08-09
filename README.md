@@ -21,14 +21,44 @@ Todo se gestiona en `docs/config.js`.
 
 ### Scoreboards
 
-```javascript
-{ name: "Cuscontest XXVI", year: 2026, url: "https://codeforces.com/gym/...", platform: "Codeforces" },
+Desde el servidor DOMjudge, exportar los endpoints del [ICPC Contest API](https://ccs-specs.icpc.io/contest_api):
+
+```
+GET /api/v4/contests                          # Lista de concursos
+GET /api/v4/contests/{id}/scoreboard          # Ranking en tiempo real
+GET /api/v4/contests/{id}/submissions         # Envíos de los equipos
+GET /api/v4/contests/{id}/judgements          # Evaluaciones de envíos
+GET /api/v4/contests/{id}/runs                # Ejecuciones individuales
+GET /api/v4/contests/{id}/teams               # Equipos registrados
+GET /api/v4/contests/{id}/problems            # Problemas del concurso
+GET /api/v4/contests/{id}/groups              # Grupos
+GET /api/v4/contests/{id}/organizations       # Categorías
+GET /api/v4/contests/{id}/accounts            # Cuentas
+GET /api/v4/contests/{id}/balloons            # Globos pendientes
+GET /api/v4/contests/{id}/awards              # Premios
+GET /api/v4/contests/{id}/state               # Estado del concurso
 ```
 
-Para scoreboards estáticos (DOMjudge exportado), crear carpeta `docs/cuscontest-xxvi/` y usar URL relativa:
+Guardar cada respuesta como archivo JSON y colocar todos los JSON en `docs/data/cuscontest-xxv/`:
+
+```
+docs/data/cuscontest-xxv/
+├── scoreboard.json
+├── teams.json
+├── problems.json
+├── contests.json
+├── organizations.json
+├── groups.json
+├── submissions.json
+├── judgements.json
+├── submissions-data.json
+└── ...
+```
+
+Finalmente, agregar entrada en config.js
 
 ```javascript
-{ name: "Cuscontest XXVI", year: 2026, url: "./cuscontest-xxvi/index.html", platform: "DOMjudge" },
+{ name: "Cuscontest XXVI", year: 2027, contestUrl: null, scoreboardUrl: "./scoreboard/index.html?contest=cuscontest-xxvi", platform: "DOMjudge" },
 ```
 
 ### Plataformas
@@ -59,4 +89,9 @@ pages: [
 
 ## Desarrollo Local
 
-Abrir `docs/index.html` en el navegador.
+```bash
+cd docs
+python3 -m http.server 3000
+```
+
+Abrir http://localhost:3000
