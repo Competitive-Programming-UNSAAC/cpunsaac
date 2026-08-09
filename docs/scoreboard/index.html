@@ -9,7 +9,8 @@
     <link rel="stylesheet" href="./vendor/bootstrap.min.css">
     <link rel="stylesheet" href="./vendor/fontawesome-all.min.css">
     <link rel="stylesheet" href="./style_domjudge.css">
-    <link rel="stylesheet" href="./theme-dark.css">
+    <link rel="stylesheet" href="./theme-light.css">
+    <link rel="stylesheet" href="./theme-dark.css" id="theme-dark-css">
     <link rel="stylesheet" href="../nav.css">
     <script src="./vendor/bootstrap.bundle.min.js"></script>
 </head>
@@ -46,6 +47,27 @@
     </script>
     <script src="./scoreboard.js"></script>
     <script>
+        // Theme toggle
+        const darkCss = document.getElementById('theme-dark-css');
+        const savedTheme = localStorage.getItem('scoreboard-theme') || 'dark';
+        if (savedTheme === 'light') darkCss.disabled = true;
+
+        function toggleTheme() {
+            const isDark = !darkCss.disabled;
+            darkCss.disabled = isDark;
+            localStorage.setItem('scoreboard-theme', isDark ? 'light' : 'dark');
+            updateToggleIcon();
+        }
+
+        function updateToggleIcon() {
+            const btn = document.getElementById('theme-toggle');
+            if (!btn) return;
+            const isDark = !darkCss.disabled;
+            btn.innerHTML = isDark
+                ? '<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M8 1a.5.5 0 01.5.5v1a.5.5 0 01-1 0v-1A.5.5 0 018 1zm0 11a.5.5 0 01.5.5v1a.5.5 0 01-1 0v-1A.5.5 0 018 12zm7-4a.5.5 0 01-.5.5h-1a.5.5 0 010-1h1A.5.5 0 0115 8zM4 8a.5.5 0 01-.5.5h-1a.5.5 0 010-1h1A.5.5 0 014 8zm9.95-3.536a.5.5 0 010 .708l-.707.707a.5.5 0 11-.708-.708l.708-.707a.5.5 0 01.707 0zM4.464 12.243a.5.5 0 010 .708l-.707.707a.5.5 0 11-.708-.708l.708-.707a.5.5 0 01.707 0zm8.486 0a.5.5 0 01-.708 0l-.707-.707a.5.5 0 01.708-.708l.707.708a.5.5 0 010 .707zM4.464 4.465a.5.5 0 01-.708 0l-.707-.708a.5.5 0 11.708-.708l.707.708a.5.5 0 010 .708zM8 5a3 3 0 100 6 3 3 0 000-6z"/></svg>'
+                : '<svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><path d="M6 .278a.768.768 0 01.08.858 7.2 7.2 0 00-.878 3.46c0 4.021 3.278 7.277 7.318 7.277.527 0 1.04-.055 1.533-.16a.787.787 0 01.81.316.733.733 0 01-.031.893A8.349 8.349 0 018.344 16C3.734 16 0 12.286 0 7.71 0 4.266 2.114 1.312 5.124.06A.752.752 0 016 .278z"/></svg>';
+        }
+
         const params = new URLSearchParams(window.location.search);
         const contest = params.get('contest');
         if (contest) {
@@ -55,10 +77,11 @@
             }).then(function() {
                 const el = document.querySelector('.card-header span[style]');
                 if (el) document.title = el.textContent.trim() + ' - Scoreboard';
+                updateToggleIcon();
             });
         } else {
             document.getElementById('scoreboard-container').innerHTML =
-                '<p style="color:#fca5a5;padding:2rem">No contest specified.</p>';
+                '<p style="color:#fca5a5;padding:2rem">No se especificó concurso.</p>';
         }
     </script>
 </body>

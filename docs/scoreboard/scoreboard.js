@@ -202,6 +202,7 @@ const ScoreboardRenderer = (() => {
       <div class="col-12">
         <span style="font-weight: bold;">${escapeHtml(contestName)}</span>
         <button class="stats-btn" id="stats-btn" title="Estadísticas"><svg width="16" height="16" viewBox="0 0 16 16" fill="currentColor"><rect x="1" y="10" width="3" height="5" rx="0.5"/><rect x="5.5" y="6" width="3" height="9" rx="0.5"/><rect x="10" y="2" width="3" height="13" rx="0.5"/></svg></button>
+        <button class="stats-btn" id="theme-toggle" onclick="toggleTheme()" title="Cambiar tema"></button>
         <div class="legend-inline">
           <span class="legend-item"><span class="legend-dot first"></span>Resuelto primero</span>
           <span class="legend-item"><span class="legend-dot solved"></span>Resuelto</span>
