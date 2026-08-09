@@ -1,0 +1,3743 @@
+[
+  {
+    "balloonid": 37,
+    "time": "1786060444.032800000",
+    "problem": "H",
+    "contestproblem": {
+      "probid": 11,
+      "short_name": "H",
+      "rgb": "#000000",
+      "color": "black",
+      "label": "H",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/H/statement",
+          "mime": "application/pdf",
+          "filename": "H.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "H",
+      "name": "LasRunasDelSello"
+    },
+    "team": "t11: Characatux",
+    "teamid": 11,
+    "location": "LAB 304-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "H": {
+        "probid": 11,
+        "short_name": "H",
+        "rgb": "#000000",
+        "color": "black",
+        "label": "H",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/H/statement",
+            "mime": "application/pdf",
+            "filename": "H.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "H",
+        "name": "LasRunasDelSello"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 36,
+    "time": "1786059789.454600000",
+    "problem": "G",
+    "contestproblem": {
+      "probid": 10,
+      "short_name": "G",
+      "rgb": "#8B4513",
+      "color": "saddlebrown",
+      "label": "G",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/G/statement",
+          "mime": "application/pdf",
+          "filename": "G.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "G",
+      "name": "LaTrinidadPrimordial"
+    },
+    "team": "t12: Paradox",
+    "teamid": 12,
+    "location": "LAB 301-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 35,
+    "time": "1786059421.391400000",
+    "problem": "B",
+    "contestproblem": {
+      "probid": 5,
+      "short_name": "B",
+      "rgb": "#87CEEB",
+      "color": "skyblue",
+      "label": "B",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/B/statement",
+          "mime": "application/pdf",
+          "filename": "B.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "B",
+      "name": "ElAltarEquilibrado"
+    },
+    "team": "t24: Los Byteyardingans",
+    "teamid": 24,
+    "location": "LAB 304-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 34,
+    "time": "1786059260.846200000",
+    "problem": "J",
+    "contestproblem": {
+      "probid": 13,
+      "short_name": "J",
+      "rgb": "#ffa500",
+      "color": "orange",
+      "label": "J",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/J/statement",
+          "mime": "application/pdf",
+          "filename": "J.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "J",
+      "name": "LosPortalesDeLosApus"
+    },
+    "team": "t10: NOT(MultiUser)",
+    "teamid": 10,
+    "location": "LAB 303-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 33,
+    "time": "1786059051.485800000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t6: Mapachitos Kamikaze",
+    "teamid": 6,
+    "location": "LAB 301-5",
+    "affiliation": "Elite",
+    "affiliationid": 5,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "F": {
+        "probid": 9,
+        "short_name": "F",
+        "rgb": "#800080",
+        "color": "purple",
+        "label": "F",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/F/statement",
+            "mime": "application/pdf",
+            "filename": "F.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "F",
+        "name": "IllapaYLasJarjachas"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 32,
+    "time": "1786058859.098700000",
+    "problem": "J",
+    "contestproblem": {
+      "probid": 13,
+      "short_name": "J",
+      "rgb": "#ffa500",
+      "color": "orange",
+      "label": "J",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/J/statement",
+          "mime": "application/pdf",
+          "filename": "J.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "J",
+      "name": "LosPortalesDeLosApus"
+    },
+    "team": "t7: nullPointers",
+    "teamid": 7,
+    "location": "LAB 302-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 31,
+    "time": "1786058090.532900000",
+    "problem": "G",
+    "contestproblem": {
+      "probid": 10,
+      "short_name": "G",
+      "rgb": "#8B4513",
+      "color": "saddlebrown",
+      "label": "G",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/G/statement",
+          "mime": "application/pdf",
+          "filename": "G.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "G",
+      "name": "LaTrinidadPrimordial"
+    },
+    "team": "t10: NOT(MultiUser)",
+    "teamid": 10,
+    "location": "LAB 303-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 30,
+    "time": "1786057924.434700000",
+    "problem": "B",
+    "contestproblem": {
+      "probid": 5,
+      "short_name": "B",
+      "rgb": "#87CEEB",
+      "color": "skyblue",
+      "label": "B",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/B/statement",
+          "mime": "application/pdf",
+          "filename": "B.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "B",
+      "name": "ElAltarEquilibrado"
+    },
+    "team": "t7: nullPointers",
+    "teamid": 7,
+    "location": "LAB 302-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 29,
+    "time": "1786056579.313900000",
+    "problem": "B",
+    "contestproblem": {
+      "probid": 5,
+      "short_name": "B",
+      "rgb": "#87CEEB",
+      "color": "skyblue",
+      "label": "B",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/B/statement",
+          "mime": "application/pdf",
+          "filename": "B.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "B",
+      "name": "ElAltarEquilibrado"
+    },
+    "team": "t10: NOT(MultiUser)",
+    "teamid": 10,
+    "location": "LAB 303-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 28,
+    "time": "1786056181.787400000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t14: Ohh estás haciendo maghea, continua",
+    "teamid": 14,
+    "location": "LAB 302-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 26,
+    "time": "1786055479.079800000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t24: Los Byteyardingans",
+    "teamid": 24,
+    "location": "LAB 304-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 25,
+    "time": "1786055253.187600000",
+    "problem": "B",
+    "contestproblem": {
+      "probid": 5,
+      "short_name": "B",
+      "rgb": "#87CEEB",
+      "color": "skyblue",
+      "label": "B",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/B/statement",
+          "mime": "application/pdf",
+          "filename": "B.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "B",
+      "name": "ElAltarEquilibrado"
+    },
+    "team": "t11: Characatux",
+    "teamid": 11,
+    "location": "LAB 304-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "H": {
+        "probid": 11,
+        "short_name": "H",
+        "rgb": "#000000",
+        "color": "black",
+        "label": "H",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/H/statement",
+            "mime": "application/pdf",
+            "filename": "H.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "H",
+        "name": "LasRunasDelSello"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 24,
+    "time": "1786054977.030200000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t30: IA no hay tokens",
+    "teamid": 30,
+    "location": "LAB 302-9",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 23,
+    "time": "1786054854.169100000",
+    "problem": "B",
+    "contestproblem": {
+      "probid": 5,
+      "short_name": "B",
+      "rgb": "#87CEEB",
+      "color": "skyblue",
+      "label": "B",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/B/statement",
+          "mime": "application/pdf",
+          "filename": "B.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "B",
+      "name": "ElAltarEquilibrado"
+    },
+    "team": "t19: Wuanakoz reveldes",
+    "teamid": 19,
+    "location": "LAB 303-2",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 22,
+    "time": "1786054627.206200000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t8: The Juniors",
+    "teamid": 8,
+    "location": "LAB 302-1",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 21,
+    "time": "1786053410.941000000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t14: Ohh estás haciendo maghea, continua",
+    "teamid": 14,
+    "location": "LAB 302-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 20,
+    "time": "1786053334.504400000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t3: SOLO",
+    "teamid": 3,
+    "location": "LAB 304-3",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 19,
+    "time": "1786053112.556500000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t27: Los pupilos de amilcar",
+    "teamid": 27,
+    "location": "LAB 302-6",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 27,
+    "time": "1786052799.250900000",
+    "problem": "F",
+    "contestproblem": {
+      "probid": 9,
+      "short_name": "F",
+      "rgb": "#800080",
+      "color": "purple",
+      "label": "F",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/F/statement",
+          "mime": "application/pdf",
+          "filename": "F.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "F",
+      "name": "IllapaYLasJarjachas"
+    },
+    "team": "t6: Mapachitos Kamikaze",
+    "teamid": 6,
+    "location": "LAB 301-5",
+    "affiliation": "Elite",
+    "affiliationid": 5,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "F": {
+        "probid": 9,
+        "short_name": "F",
+        "rgb": "#800080",
+        "color": "purple",
+        "label": "F",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/F/statement",
+            "mime": "application/pdf",
+            "filename": "F.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "F",
+        "name": "IllapaYLasJarjachas"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 18,
+    "time": "1786052715.472800000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t21: Los pythonsitos",
+    "teamid": 21,
+    "location": "LAB 304-2",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 17,
+    "time": "1786052450.826000000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t4: NERV",
+    "teamid": 4,
+    "location": "LAB 303-4",
+    "affiliation": "Elite",
+    "affiliationid": 5,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 16,
+    "time": "1786052209.625600000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t37: Pillco Apruebame",
+    "teamid": 37,
+    "location": "LAB 301-7",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 15,
+    "time": "1786052168.631400000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t11: Characatux",
+    "teamid": 11,
+    "location": "LAB 304-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "H": {
+        "probid": 11,
+        "short_name": "H",
+        "rgb": "#000000",
+        "color": "black",
+        "label": "H",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/H/statement",
+            "mime": "application/pdf",
+            "filename": "H.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "H",
+        "name": "LasRunasDelSello"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 14,
+    "time": "1786051946.489800000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t10: NOT(MultiUser)",
+    "teamid": 10,
+    "location": "LAB 303-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 13,
+    "time": "1786051875.630600000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t24: Los Byteyardingans",
+    "teamid": 24,
+    "location": "LAB 304-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 12,
+    "time": "1786051806.933800000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t3: SOLO",
+    "teamid": 3,
+    "location": "LAB 304-3",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 11,
+    "time": "1786051706.642800000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t10: NOT(MultiUser)",
+    "teamid": 10,
+    "location": "LAB 303-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 10,
+    "time": "1786050750.243600000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t6: Mapachitos Kamikaze",
+    "teamid": 6,
+    "location": "LAB 301-5",
+    "affiliation": "Elite",
+    "affiliationid": 5,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "F": {
+        "probid": 9,
+        "short_name": "F",
+        "rgb": "#800080",
+        "color": "purple",
+        "label": "F",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/F/statement",
+            "mime": "application/pdf",
+            "filename": "F.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "F",
+        "name": "IllapaYLasJarjachas"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 9,
+    "time": "1786050532.531200000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t15: De gatos a huanacos",
+    "teamid": 15,
+    "location": "LAB 304-1",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 8,
+    "time": "1786049823.223900000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t7: nullPointers",
+    "teamid": 7,
+    "location": "LAB 302-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 7,
+    "time": "1786049805.321800000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t37: Pillco Apruebame",
+    "teamid": 37,
+    "location": "LAB 301-7",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 6,
+    "time": "1786049598.394300000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t19: Wuanakoz reveldes",
+    "teamid": 19,
+    "location": "LAB 303-2",
+    "affiliation": "Principiante",
+    "affiliationid": 2,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 5,
+    "time": "1786049311.124000000",
+    "problem": "A",
+    "contestproblem": {
+      "probid": 4,
+      "short_name": "A",
+      "rgb": "#FFFFFF",
+      "color": "white",
+      "label": "A",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/A/statement",
+          "mime": "application/pdf",
+          "filename": "A.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "A",
+      "name": "CaminoDeLosDioses"
+    },
+    "team": "t7: nullPointers",
+    "teamid": 7,
+    "location": "LAB 302-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 4,
+    "time": "1786048403.684300000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t7: nullPointers",
+    "teamid": 7,
+    "location": "LAB 302-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "J": {
+        "probid": 13,
+        "short_name": "J",
+        "rgb": "#ffa500",
+        "color": "orange",
+        "label": "J",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/J/statement",
+            "mime": "application/pdf",
+            "filename": "J.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "J",
+        "name": "LosPortalesDeLosApus"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 3,
+    "time": "1786048397.495300000",
+    "problem": "K",
+    "contestproblem": {
+      "probid": 14,
+      "short_name": "K",
+      "rgb": "#90EE90",
+      "color": "lightgreen",
+      "label": "K",
+      "time_limit": 2,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/K/statement",
+          "mime": "application/pdf",
+          "filename": "K.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "K",
+      "name": "NinaYLosPumas"
+    },
+    "team": "t11: Characatux",
+    "teamid": 11,
+    "location": "LAB 304-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "H": {
+        "probid": 11,
+        "short_name": "H",
+        "rgb": "#000000",
+        "color": "black",
+        "label": "H",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/H/statement",
+            "mime": "application/pdf",
+            "filename": "H.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "H",
+        "name": "LasRunasDelSello"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 2,
+    "time": "1786048162.556700000",
+    "problem": "A",
+    "contestproblem": {
+      "probid": 4,
+      "short_name": "A",
+      "rgb": "#FFFFFF",
+      "color": "white",
+      "label": "A",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/A/statement",
+          "mime": "application/pdf",
+          "filename": "A.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "A",
+      "name": "CaminoDeLosDioses"
+    },
+    "team": "t11: Characatux",
+    "teamid": 11,
+    "location": "LAB 304-5",
+    "affiliation": "Avanzado",
+    "affiliationid": 4,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "A": {
+        "probid": 4,
+        "short_name": "A",
+        "rgb": "#FFFFFF",
+        "color": "white",
+        "label": "A",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/A/statement",
+            "mime": "application/pdf",
+            "filename": "A.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "A",
+        "name": "CaminoDeLosDioses"
+      },
+      "B": {
+        "probid": 5,
+        "short_name": "B",
+        "rgb": "#87CEEB",
+        "color": "skyblue",
+        "label": "B",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/B/statement",
+            "mime": "application/pdf",
+            "filename": "B.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "B",
+        "name": "ElAltarEquilibrado"
+      },
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      },
+      "H": {
+        "probid": 11,
+        "short_name": "H",
+        "rgb": "#000000",
+        "color": "black",
+        "label": "H",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/H/statement",
+            "mime": "application/pdf",
+            "filename": "H.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "H",
+        "name": "LasRunasDelSello"
+      },
+      "K": {
+        "probid": 14,
+        "short_name": "K",
+        "rgb": "#90EE90",
+        "color": "lightgreen",
+        "label": "K",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/K/statement",
+            "mime": "application/pdf",
+            "filename": "K.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "K",
+        "name": "NinaYLosPumas"
+      }
+    },
+    "done": true
+  },
+  {
+    "balloonid": 1,
+    "time": "1786047391.927600000",
+    "problem": "C",
+    "contestproblem": {
+      "probid": 6,
+      "short_name": "C",
+      "rgb": "#0000FF",
+      "color": "blue",
+      "label": "C",
+      "time_limit": 1,
+      "statement": [
+        {
+          "href": "contests/cuscontestXXV/problems/C/statement",
+          "mime": "application/pdf",
+          "filename": "C.pdf"
+        }
+      ],
+      "attachments": [],
+      "id": "C",
+      "name": "ElDespertarDeLosApus"
+    },
+    "team": "t12: Paradox",
+    "teamid": 12,
+    "location": "LAB 301-8",
+    "affiliation": "Intermedio",
+    "affiliationid": 3,
+    "category": "Participantes",
+    "categoryid": 6,
+    "total": {
+      "C": {
+        "probid": 6,
+        "short_name": "C",
+        "rgb": "#0000FF",
+        "color": "blue",
+        "label": "C",
+        "time_limit": 1,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/C/statement",
+            "mime": "application/pdf",
+            "filename": "C.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "C",
+        "name": "ElDespertarDeLosApus"
+      },
+      "G": {
+        "probid": 10,
+        "short_name": "G",
+        "rgb": "#8B4513",
+        "color": "saddlebrown",
+        "label": "G",
+        "time_limit": 2,
+        "statement": [
+          {
+            "href": "contests/cuscontestXXV/problems/G/statement",
+            "mime": "application/pdf",
+            "filename": "G.pdf"
+          }
+        ],
+        "attachments": [],
+        "id": "G",
+        "name": "LaTrinidadPrimordial"
+      }
+    },
+    "done": true
+  }
+]

@@ -3,13 +3,21 @@
 <head>
     <meta charset="utf-8">
     <title>Scoreboard</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="./vendor/bootstrap.min.css">
     <link rel="stylesheet" href="./vendor/fontawesome-all.min.css">
     <link rel="stylesheet" href="./style_domjudge.css">
+    <link rel="stylesheet" href="./theme-dark.css">
+    <link rel="stylesheet" href="../nav.css">
     <script src="./vendor/bootstrap.bundle.min.js"></script>
 </head>
 <body class="static">
+    <header class="org-header">
+        <div class="org-header-inner"></div>
+    </header>
+
     <div class="container-fluid">
         <div class="row">
             <div class="col-12">
@@ -17,6 +25,25 @@
             </div>
         </div>
     </div>
+
+    <script>
+        const scriptEl = document.createElement('script');
+        scriptEl.src = '../config.js';
+        scriptEl.onload = function() {
+            const fixPath = (p) => p && p.startsWith('./') ? '../' + p.slice(2) : p;
+            siteConfig.org.logo = fixPath(siteConfig.org.logo);
+            siteConfig.org.url = fixPath(siteConfig.org.url);
+            siteConfig.pages = siteConfig.pages.map(p => {
+                if (p.url) p.url = fixPath(p.url);
+                if (p.dropdown) p.dropdown = p.dropdown.map(d => ({ ...d }));
+                return p;
+            });
+            const navScript = document.createElement('script');
+            navScript.src = '../nav.js';
+            document.body.appendChild(navScript);
+        };
+        document.body.appendChild(scriptEl);
+    </script>
     <script src="./scoreboard.js"></script>
     <script>
         const params = new URLSearchParams(window.location.search);
@@ -26,10 +53,12 @@
                 dataPath: '../data/' + contest,
                 flagsPath: './flags/4x3'
             }).then(function() {
-                document.title = document.querySelector('.card-header span[style]')?.textContent?.trim() + ' - Scoreboard' || 'Scoreboard';
+                const el = document.querySelector('.card-header span[style]');
+                if (el) document.title = el.textContent.trim() + ' - Scoreboard';
             });
         } else {
-            document.getElementById('scoreboard-container').innerHTML = '<p class="text-danger">No contest specified. Use ?contest=cuscontest-xxv</p>';
+            document.getElementById('scoreboard-container').innerHTML =
+                '<p style="color:#fca5a5;padding:2rem">No contest specified.</p>';
         }
     </script>
 </body>

@@ -1,6 +1,6 @@
 [
   {
-    "formal_name": "CUSCONTEST - PERUMEC",
+    "formal_name": "CUSCONTEST XXV - PERUMEC",
     "scoreboard_type": "pass-fail",
     "start_time": "2026-08-06T15:00:00-05:00",
     "end_time": "2026-08-06T20:00:00-05:00",
@@ -9,7 +9,7 @@
     "scoreboard_freeze_duration": "1:00:00.000",
     "cid": 2,
     "id": "cuscontestXXV",
-    "name": "CUSCONTEST - PERUMEC",
+    "name": "CUSCONTEST XXV - PERUMEC",
     "shortname": "cuscontestXXV",
     "allow_submit": true,
     "runtime_as_score_tiebreaker": false,

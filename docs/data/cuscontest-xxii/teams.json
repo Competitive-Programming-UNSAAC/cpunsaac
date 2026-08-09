@@ -21,7 +21,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Jaime Antonio Rodriguez Phillco\n- Jose Emilio Atauchi Mamani\n- Etner Yury Quispe Arqque",
+    "location": {
+      "description": "LAB 306-10"
+    }
   },
   {
     "id": "team40",
@@ -33,7 +37,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Rayneld Fidel Castro Pari\n- Yamir Wagner Florez Vega\n- Jose Daniel Mendoza Quispe",
+    "location": {
+      "description": "LAB 306-20"
+    }
   },
   {
     "id": "team03",
@@ -57,7 +65,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Andrés Auccacusi Quispe Ynga\n- Jose Omar Miranda Totocayo\n- Oscar Alex Quispe Chura",
+    "location": {
+      "description": "LAB 303-20"
+    }
   },
   {
     "id": "team26",
@@ -69,7 +81,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Steffano Ricardo Caballero Zegarra\n- Jhon Efrain Quispe Chura\n- Jhoel Fabrizzio Magaña Osorio",
+    "location": {
+      "description": "LAB 303-10"
+    }
   },
   {
     "id": "team44",
@@ -81,7 +97,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Fidel Enrique Colque Quispe\n- Jhon Andherson Quispe Llavilla\n- Erick Sebastian Chuchon Valdez",
+    "location": {
+      "description": "LAB 304-4"
+    }
   },
   {
     "id": "team48",
@@ -93,7 +113,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Horus Hugo Sánchez Enciso\n- Andric Jeremy Bueno Lescano\n- Luigui Fernando Valeriano Huacarpuma",
+    "location": {
+      "description": "LAB 304-14"
+    }
   },
   {
     "id": "team18",
@@ -105,7 +129,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Kevin Aron Sumire Ccahuana\n- Anghelo Alagon Fernandez\n- Wilger Fabricio Aucapuri Corimanya",
+    "location": {
+      "description": "LAB 302-14"
+    }
   },
   {
     "id": "team45",
@@ -117,7 +145,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Daniel Rodrigo Alegria Sallo\n- Oscar David Barrientos Huillca\n- Johan Mihail Conde Sallo",
+    "location": {
+      "description": "LAB 304-6"
+    }
   },
   {
     "id": "team29",
@@ -129,7 +161,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Yeferson Supa Cusipaucar\n- Adel Alejandro Merma Ccarhuarupay\n- Brayan Antoni Higuera Halanocca",
+    "location": {
+      "description": "LAB 303-18"
+    }
   },
   {
     "id": "team23",
@@ -141,7 +177,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Bruce Máximo Mamani Gabriel\n- Rossbel Haylla Huillca\n- Ferdinan Junior Condorcahua Ayllone",
+    "location": {
+      "description": "LAB 303-2"
+    }
   },
   {
     "id": "team55",
@@ -153,7 +193,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Renzo Sebastian Quispe Pinares",
+    "location": {
+      "description": "LAB 305-6"
+    }
   },
   {
     "id": "team13",
@@ -165,7 +209,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Ian Logan Will Quispe Ventura\n- Pumachoque choquenaira Jhon esau\n- Zegarra rojas Jorge enrique",
+    "location": {
+      "description": "LAB 302-2"
+    }
   },
   {
     "id": "team37",
@@ -177,7 +225,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Hernan Washington Ramos Alata\n- Brayan Rodrigo Quispe Castillo\n- Denis Jair Cancinas Cardenas",
+    "location": {
+      "description": "LAB 306-12"
+    }
   },
   {
     "id": "team19",
@@ -189,7 +241,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Luis David Medma Canlla\n- Jhon William Huanca Alcca\n- Aracely Fiorela Corampa Palacios",
+    "location": {
+      "description": "LAB 302-18"
+    }
   },
   {
     "id": "team28",
@@ -201,7 +257,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Manuel Eduardo Quispe Condori\n- Will Edson Mayta Ttito\n- Yunque\tIan Piero Yana Cuno",
+    "location": {
+      "description": "LAB 303-14"
+    }
   },
   {
     "id": "team46",
@@ -213,7 +273,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Angel Ismael Álvarez Catunta\n- Luis Angel Mogrovejo Ccorimanya\n- Joan Gonzalo Quispe Checya",
+    "location": {
+      "description": "LAB 304-10"
+    }
   },
   {
     "id": "team24",
@@ -225,7 +289,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Cristhian Ccala Huamani\n- Wilman Ccasani Huaman\n- Herberth Claudd Mayta Salazar",
+    "location": {
+      "description": "LAB 303-4"
+    }
   },
   {
     "id": "team09",
@@ -249,7 +317,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Dayan Gisel Farfan Gomez\n- Jeliel Enriquez Aramburu\n- Baruc Sota Escalante",
+    "location": {
+      "description": "LAB 303-12"
+    }
   },
   {
     "id": "team25",
@@ -261,7 +333,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Juan Daniel Mascco Rodriguez\n- Joseph Smith Merma Flores\n- Timoteo Quispe Merma",
+    "location": {
+      "description": "LAB 303-6"
+    }
   },
   {
     "id": "team16",
@@ -273,7 +349,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Carlos Zuñiga Sara\n- Isel Yuliana Ticona Quispe\n- Celia Quispe Quispe",
+    "location": {
+      "description": "LAB 302-10"
+    }
   },
   {
     "id": "team20",
@@ -285,7 +365,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Marco Abel Gallegos Silva\n- Peython Leoncio Cañihua Paz\n- Eduardo Sebastian Achahui Jiménez",
+    "location": {
+      "description": "LAB 302-20"
+    }
   },
   {
     "id": "team11",
@@ -297,7 +381,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Camila Alexandra Fernández Puente de la Vega\n- Gabriel Caleb Suca Hilares\n- Diego Alonso Quispe Castilla",
+    "location": {
+      "description": "LAB 301-22"
+    }
   },
   {
     "id": "team06",
@@ -321,7 +409,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Juan Gabriel Huisa Mamani\n- Ludvika Arleth Ccasa Pocohuanca\n- Alex Berrios Thea",
+    "location": {
+      "description": "LAB 302-6"
+    }
   },
   {
     "id": "team35",
@@ -333,7 +425,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Rodriguez Pauccara Cristian Diego\n- Eduardo Torres Cano\n- Jorge Luis Mamani jara",
+    "location": {
+      "description": "LAB 306-6"
+    }
   },
   {
     "id": "team07",
@@ -357,7 +453,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Sebastian Victor Torreblanca Paz\n- José Luis Peña Caballero\n- Dennis Oswaldo Sanchez Palomino",
+    "location": {
+      "description": "LAB 306-18"
+    }
   },
   {
     "id": "team08",
@@ -381,7 +481,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Jose Carlos Leon Maldonado\n- Adriel Mithuar Guevara Cusi\n- Fran Jhoel Yapo Huaraya",
+    "location": {
+      "description": "LAB 301-1"
+    }
   },
   {
     "id": "team56",
@@ -393,7 +497,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- WENDEL YOVAN NIÑO DE GUZMAN CONDE",
+    "location": {
+      "description": "LAB 305-10"
+    }
   },
   {
     "id": "team14",
@@ -405,7 +513,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Jeyson Joseph Chacón Hancco\n- Qoyllur Alondra Huaman Copara\n- Max Sihuar Holguino Nuñez",
+    "location": {
+      "description": "LAB 302-4"
+    }
   },
   {
     "id": "team57",
@@ -417,7 +529,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Sandro Alexander Salluca Chile",
+    "location": {
+      "description": "LAB 305-12"
+    }
   },
   {
     "id": "team22",
@@ -429,7 +545,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Joseph Timothy Calderón Garmendia\n- José Luis Huillca Diaz\n- Kevin Daniel Peralta Oros",
+    "location": {
+      "description": "LAB 302-1"
+    }
   },
   {
     "id": "team05",
@@ -453,7 +573,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- George Ivanok Muñoz Castillo\n- franklin llamocca quispe\n- Jannira Alison Farfan Luna",
+    "location": {
+      "description": "LAB 301-20"
+    }
   },
   {
     "id": "team31",
@@ -465,7 +589,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Emmi Daniel a Huaman Tairo\n- Maricielo Antonieta Zavala Uchupe\n- Winny Tamara Navío Ccapa",
+    "location": {
+      "description": "LAB 303-22"
+    }
   },
   {
     "id": "team21",
@@ -477,7 +605,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Andy Yoseph Quispe Huanca\n- Ronaldo Ticona Jancco\n- Denis Moises Ccopatinta Qqueccaño",
+    "location": {
+      "description": "LAB 302-22"
+    }
   },
   {
     "id": "team47",
@@ -489,7 +621,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Carolay Ccama Enriquez\n- Nayeli Constantina Labra Huaita\n- Esmaydes Ccori Taco",
+    "location": {
+      "description": "LAB 304-12"
+    }
   },
   {
     "id": "team33",
@@ -501,7 +637,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Aracely Llancaya Tapia\n- Ingrid Rosario Noa Aller\n- Frank Wilder Ulloa Parque",
+    "location": {
+      "description": "LAB 306-2"
+    }
   },
   {
     "id": "team51",
@@ -513,7 +653,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Ibeth Janela del Pilar Cusi Diaz\n- Lizeth Carla Mamani Salcedo",
+    "location": {
+      "description": "LAB 304-22"
+    }
   },
   {
     "id": "team49",
@@ -525,7 +669,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- HJOVER ELSON KJUIRO HUAMAN\n- Jack\n- LUIS ALVINO LEVITA QUISPE",
+    "location": {
+      "description": "LAB 304-18"
+    }
   },
   {
     "id": "team17",
@@ -537,7 +685,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Andy Jefferson Zevallos Yanqui\n- Natan Mamani Flores\n- Eduardo Jhosef Santos Pillco",
+    "location": {
+      "description": "LAB 302-12"
+    }
   },
   {
     "id": "team41",
@@ -549,7 +701,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Angela Lorena Cornejo Castro\n- José Francisco Quentasi Juachin\n- Luis Alejandro Ramos Aguirre",
+    "location": {
+      "description": "LAB 306-22"
+    }
   },
   {
     "id": "team34",
@@ -561,7 +717,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Huacho cruz David ali\n- Motta Mendoza Pavel alvaro\n- Huisa Nina Yimy Yohel",
+    "location": {
+      "description": "LAB 306-4"
+    }
   },
   {
     "id": "team42",
@@ -573,7 +733,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Diego Fernando Monzón Carayhua\n- José Snayder Mita Puma\n- Emanuel Javier Ricasca Miranda",
+    "location": {
+      "description": "LAB 306-1"
+    }
   },
   {
     "id": "team50",
@@ -585,7 +749,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Jair Samin Aparicio Aguilar\n- John Jeremi Díaz Pumalloclla",
+    "location": {
+      "description": "LAB 304-20"
+    }
   },
   {
     "id": "team38",
@@ -597,7 +765,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- José Luis Quispe Tayña\n- Denilson Pari Arriaga\n- Jesus Augusto Alegria Mendoza",
+    "location": {
+      "description": "LAB 306-14"
+    }
   },
   {
     "id": "team53",
@@ -609,7 +781,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Rony Wilson Quinaya Mejia\n- Dylan Patrick Meza Challco",
+    "location": {
+      "description": "LAB 305-2"
+    }
   },
   {
     "id": "team32",
@@ -621,7 +797,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Isai Mamani Crispin\n- Juan Carlos Gibaja Huayhua\n- Ciro Munive Salas",
+    "location": {
+      "description": "LAB 303-1"
+    }
   },
   {
     "id": "team43",
@@ -633,7 +813,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Ronald Einar Gutiérrez Alfaro\n- Gustavo Pantoja Olave\n- Anghelo Jhulino Villalobos Usca",
+    "location": {
+      "description": "LAB 304-2"
+    }
   },
   {
     "id": "team54",
@@ -645,7 +829,11 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Edwin",
+    "location": {
+      "description": "LAB 305-4"
+    }
   },
   {
     "id": "team52",
@@ -657,6 +845,10 @@
       "contestants"
     ],
     "hidden": false,
-    "nationality": "PER"
+    "nationality": "PER",
+    "public_description": "- Isel Yuliana Ticona  Quispe\n- Aldo Quispe Locumber",
+    "location": {
+      "description": "LAB 304-1"
+    }
   }
 ]

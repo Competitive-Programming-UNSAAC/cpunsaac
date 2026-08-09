@@ -1,0 +1,52 @@
+[
+  {
+    "id": "group-winner-contestants",
+    "citation": "Winner(s) of group Participantes",
+    "team_ids": ["team09"]
+  },
+  {
+    "id": "first-to-solve-A",
+    "citation": "First to solve problem A",
+    "team_ids": ["team09"]
+  },
+  {
+    "id": "first-to-solve-H",
+    "citation": "First to solve problem H",
+    "team_ids": ["team09"]
+  },
+  {
+    "id": "first-to-solve-K",
+    "citation": "First to solve problem K",
+    "team_ids": ["team09"]
+  },
+  {
+    "id": "first-to-solve-J",
+    "citation": "First to solve problem J",
+    "team_ids": ["team05"]
+  },
+  {
+    "id": "first-to-solve-G",
+    "citation": "First to solve problem G",
+    "team_ids": ["team08"]
+  },
+  {
+    "id": "first-to-solve-F",
+    "citation": "First to solve problem F",
+    "team_ids": ["team04"]
+  },
+  {
+    "id": "first-to-solve-B",
+    "citation": "First to solve problem B",
+    "team_ids": ["team17"]
+  },
+  {
+    "id": "first-to-solve-C",
+    "citation": "First to solve problem C",
+    "team_ids": ["team10"]
+  },
+  {
+    "id": "winner",
+    "citation": "Contest winner",
+    "team_ids": ["team09"]
+  }
+]
