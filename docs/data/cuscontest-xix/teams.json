@@ -1,0 +1,786 @@
+[
+  {
+    "id": "team30",
+    "name": "La banda no binaria",
+    "display_name": "La banda no binaria",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jose Emilio Atauchi Mamani\n- Edson Leonid Phuyo Huaman\n- Eliazar Noa Llasccanoa",
+    "location": {
+      "description": "LAB 306-10"
+    }
+  },
+  {
+    "id": "team25",
+    "name": "[ACM] Dijkstraidos",
+    "display_name": "[ACM] Dijkstraidos",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Angela Vanessa Reynaga Flores\n- Jaime Antonio Rodriguez Phillco\n- Justino Ferro Alvarez",
+    "location": {
+      "description": "LAB 303-3"
+    }
+  },
+  {
+    "id": "team18",
+    "name": "[ACM] pancito^-^",
+    "display_name": "[ACM] pancito^-^",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Yishar Piero Nieto Barrientos\n- Jhamsid Romero Bernal\n- Etner Yury Quispe Arqque",
+    "location": {
+      "description": "LAB 302-18"
+    }
+  },
+  {
+    "id": "team43",
+    "name": "HIDDEN",
+    "display_name": "HIDDEN",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Cristhian Ccala Huamani\n- Wilman Ccasani Huaman",
+    "location": {
+      "description": "LAB 305-7"
+    }
+  },
+  {
+    "id": "team16",
+    "name": "[ACM] La secta de elmo",
+    "display_name": "[ACM] La secta de elmo",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Milton Amed Achahui Cruz\n- Anghelo Alagon Fernandez\n- Wilger Fabricio Aucapuri Corimanya",
+    "location": {
+      "description": "LAB 302-2"
+    }
+  },
+  {
+    "id": "team26",
+    "name": "Los abejorros",
+    "display_name": "Los abejorros",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Milton Alexis Pachari Lipa\n- Max Alex Soncco Luque\n- Nick Antoni Aguilar Sanchez",
+    "location": {
+      "description": "LAB 303-10"
+    }
+  },
+  {
+    "id": "team6",
+    "name": "The Cult Code",
+    "display_name": "The Cult Code",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Kevin Sumire Ccahuana\n- Darcy Omar Orccon Diaz\n- Jesus Gustavo Ochoa Barrios",
+    "location": {
+      "description": "LAB 301-4"
+    }
+  },
+  {
+    "id": "team7",
+    "name": "[ACM] Alfa Buena Maravilla Onda Dinamita Escuadrón Lobo",
+    "display_name": "[ACM] Alfa Buena Maravilla Onda Dinamita Escuadrón Lobo",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Fabricio Yared Cardenas Huaman\n- Yerson Joab chirinos Vilca\n- Jose Luis Cruz Carrion",
+    "location": {
+      "description": "LAB 301-12"
+    }
+  },
+  {
+    "id": "team42",
+    "name": "Info boys",
+    "display_name": "Info boys",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Christian Pumaccahua Cusihuaman\n- Cristian Andy Cabrera Mejia",
+    "location": {
+      "description": "LAB 304-10"
+    }
+  },
+  {
+    "id": "team15",
+    "name": "Cosmicoders",
+    "display_name": "Cosmicoders",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Cristian Diego Rodriguez Pauccara\n- Zegarra Rojas Jorge Enrique\n- Luis Manuel Tinoco Ccoto",
+    "location": {
+      "description": "LAB 302-20"
+    }
+  },
+  {
+    "id": "team21",
+    "name": "Delegados Aprobados",
+    "display_name": "Delegados Aprobados",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Paul André Auccacusi Huanca\n- Dylan Patrick Meza Challco\n- Mei-Ling Biggerstaff Pumacahua",
+    "location": {
+      "description": "LAB 303-23"
+    }
+  },
+  {
+    "id": "team10",
+    "name": "RexByte",
+    "display_name": "RexByte",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Boris Eloy Sullcarani Diaz\n- Sebastian Victor Torreblanca Paz\n- Abel Enrique Bellido Armuto",
+    "location": {
+      "description": "LAB 301-10"
+    }
+  },
+  {
+    "id": "team36",
+    "name": "[ACM] Net team",
+    "display_name": "[ACM] Net team",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Adel Alejandro Merma Ccarhuarupay\n- Yamir Wagner Florez Vega\n- Eduardo Jhosef Santos Pillco",
+    "location": {
+      "description": "LAB 304-15"
+    }
+  },
+  {
+    "id": "team47",
+    "name": "[ACM] RAMON",
+    "display_name": "[ACM] RAMON",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Luis Alberto Gallegos Cjuiro",
+    "location": {
+      "description": "LAB 305-12"
+    }
+  },
+  {
+    "id": "team31",
+    "name": "Progra-Prime",
+    "display_name": "Progra-Prime",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Oriol Fernando Palacios Durand\n- Anghelo Jhulino Villalobos Usca\n- Gustavo Pantoja Olave",
+    "location": {
+      "description": "LAB 306-18"
+    }
+  },
+  {
+    "id": "team13",
+    "name": "[ACM] Pingüinos Enojados :v",
+    "display_name": "[ACM] Pingüinos Enojados :v",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Willians Montañez Choque\n- Katerine Candy Lima Esperilla\n- Victor Urquizo Carbajal",
+    "location": {
+      "description": "LAB 302-4"
+    }
+  },
+  {
+    "id": "team44",
+    "name": "Undefined",
+    "display_name": "Undefined",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Edwin Darny Rosa Huanca\n- Melissa Karen Rivera Alagon",
+    "location": {
+      "description": "LAB 305-15"
+    }
+  },
+  {
+    "id": "team17",
+    "name": "X-Force",
+    "display_name": "X-Force",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Eduardo Torre Cano\n- Ian Logan Will Quispe Ventura\n- Jhon Esaú Pumachoque Choquenaira",
+    "location": {
+      "description": "LAB 302-10"
+    }
+  },
+  {
+    "id": "team45",
+    "name": "Team rayito",
+    "display_name": "Team rayito",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Will Edson Mayta Ttito\n- Dayana Angela Castilla Vargas",
+    "location": {
+      "description": "LAB 305-23"
+    }
+  },
+  {
+    "id": "team34",
+    "name": "LOS AYUWOKIS",
+    "display_name": "LOS AYUWOKIS",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Andric Jeremy Bueno Lescano\n- David Fernando Prieto Cardoso\n- Luigui Fernando Valeriano Huacarpuma",
+    "location": {
+      "description": "LAB 306-20"
+    }
+  },
+  {
+    "id": "team28",
+    "name": "Magic League",
+    "display_name": "Magic League",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Milder Muñoz Centeno\n- Ivan Nestor Limpi Tinta\n- OMAR HUAYAPA HUAMANÑAHUI",
+    "location": {
+      "description": "LAB 306-7"
+    }
+  },
+  {
+    "id": "team29",
+    "name": "Los lideres",
+    "display_name": "Los lideres",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Vanessa Escobedo Mescco\n- Aracely Fiorela Corampa Palacios\n- JELIEL ENRIQUEZ ARAMBURU",
+    "location": {
+      "description": "LAB 306-2"
+    }
+  },
+  {
+    "id": "team20",
+    "name": "Halcones",
+    "display_name": "Halcones",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Elisban Mendoza Huaillapuma\n- Najor Josue Valdeiglesias Dueñas\n- Julio Cesar Callañaupa Sallo",
+    "location": {
+      "description": "LAB 303-15"
+    }
+  },
+  {
+    "id": "team41",
+    "name": "The Clay",
+    "display_name": "The Clay",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Dorian Roger Zavala Ttito\n- Lucian Neptali Fernandez Baca Castro",
+    "location": {
+      "description": "LAB 304-2"
+    }
+  },
+  {
+    "id": "team4",
+    "name": "Choclitos",
+    "display_name": "Choclitos",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Fidel Enrique Colque Quispe\n- Rayneld Fidel Castro Pari\n- Chuchon Valdez Erick Sebastian",
+    "location": {
+      "description": "LAB 301-15"
+    }
+  },
+  {
+    "id": "team9",
+    "name": "lostri",
+    "display_name": "lostri",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Joseph Timothy Calderon Garmendia\n- Gerson Torres Mamani\n- Jemy Sandro Huaman Quispe",
+    "location": {
+      "description": "LAB 301-2"
+    }
+  },
+  {
+    "id": "team35",
+    "name": "Los Scoobitos",
+    "display_name": "Los Scoobitos",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Haider Alex Carpio Hermoza\n- Zegarra Rojas Jorge Enrique\n- Juan Joram Ojeda Romoacca",
+    "location": {
+      "description": "LAB 304-20"
+    }
+  },
+  {
+    "id": "team14",
+    "name": "JAVity",
+    "display_name": "JAVity",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Vito Jhon Huerta Medina\n- Shaiel Almendra Arana Flores\n- Juan Gabriel Poma Supo",
+    "location": {
+      "description": "LAB 302-12"
+    }
+  },
+  {
+    "id": "team22",
+    "name": "Código de último minuto",
+    "display_name": "Código de último minuto",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Gonzalo Cusi Fuentes\n- Ralexs Huallpa Montalvo\n- Rodrigo Fabrico Olarte Casas",
+    "location": {
+      "description": "LAB 303-4"
+    }
+  },
+  {
+    "id": "team12",
+    "name": "Made_in_ChatGPT",
+    "display_name": "Made_in_ChatGPT",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Alex Berrios Thea\n- Fran Jhoel Yapo Huaraya\n- José Carlos León Maldonado",
+    "location": {
+      "description": "LAB 302-23"
+    }
+  },
+  {
+    "id": "team46",
+    "name": "YourNightmare",
+    "display_name": "YourNightmare",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Yefer Yucra Valdez\n- Marcelo Eduardo Suarez Mariscal",
+    "location": {
+      "description": "LAB 305-4"
+    }
+  },
+  {
+    "id": "team49",
+    "name": "Solo Script",
+    "display_name": "Solo Script",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Ismael Gerson Ramos Alvarez",
+    "location": {
+      "description": "LAB 305-2"
+    }
+  },
+  {
+    "id": "team33",
+    "name": "EVIL GENIUSES",
+    "display_name": "EVIL GENIUSES",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Richard Rodriguez Huaylla\n- Brayan Rodrigo Quispe Castillo\n- Hernan Washington Ramos Alata",
+    "location": {
+      "description": "LAB 306-13"
+    }
+  },
+  {
+    "id": "team3",
+    "name": "Maestros del codigo",
+    "display_name": "Maestros del codigo",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- George Adolfo Conde Padin\n- Haider Alex Carpio Hermoza\n- David Giraldo Enciso",
+    "location": {
+      "description": "LAB 301-7"
+    }
+  },
+  {
+    "id": "team32",
+    "name": "Todo por arqui",
+    "display_name": "Todo por arqui",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Kevin Yeison Cusi Huaman\n- Juan Carlos Gutierrez Amachi\n- Luis Alexei Quispe Rodriguez",
+    "location": {
+      "description": "LAB 306-4"
+    }
+  },
+  {
+    "id": "team24",
+    "name": "⚡THE LEGEND ⚡",
+    "display_name": "⚡THE LEGEND ⚡",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jose Manuel Bustinza Quispe\n- José Alfredo Huaman Quispe\n- Michael Augusto Baez Monge",
+    "location": {
+      "description": "LAB 303-20"
+    }
+  },
+  {
+    "id": "team23",
+    "name": "Cokbots",
+    "display_name": "Cokbots",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Gianella Alexandra Ramos Ticahuanca\n- Diego Miguel Huamantalla Rios\n- Angie Luz quispe Tejeira",
+    "location": {
+      "description": "LAB 303-12"
+    }
+  },
+  {
+    "id": "team37",
+    "name": "Queencard",
+    "display_name": "Queencard",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Ibeth Janela del Pilar Cusi Diaz\n- Lizeth Carla Mamani Salcedo",
+    "location": {
+      "description": "LAB 304-22"
+    }
+  },
+  {
+    "id": "team27",
+    "name": "Warrior team",
+    "display_name": "Warrior team",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jhon William Huanca Alcca\n- Carlos Willian Luna Ccapa\n- Adilson Ronaldo Angulo Arotaype",
+    "location": {
+      "description": "LAB 306-23"
+    }
+  },
+  {
+    "id": "team40",
+    "name": "Los ausentes",
+    "display_name": "Los ausentes",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jesus Augusto Alegria Mendoza\n- Flor Deliz Ccasa Ccahuana",
+    "location": {
+      "description": "LAB 304-21"
+    }
+  },
+  {
+    "id": "team5",
+    "name": "Los revoltosos",
+    "display_name": "Los revoltosos",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Oscar David Barrientos Huillca.\n- Luis Fernando Gallegos&nbsp;Ballon\n- Jose Francisco Quentasi Juachin",
+    "location": {
+      "description": "LAB 301-23"
+    }
+  },
+  {
+    "id": "team11",
+    "name": "Los Informales",
+    "display_name": "Los Informales",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Luis David Medma Canlla\n- Joseph smith merma flores\n- Joseph Jesús Callañaupa Salcedo",
+    "location": {
+      "description": "LAB 302-7"
+    }
+  },
+  {
+    "id": "team8",
+    "name": "scripters united",
+    "display_name": "scripters united",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Brayan choque Mamani\n- José Javier Huaman Sutta\n- Gerald Benjamin Huanto Ayma",
+    "location": {
+      "description": "LAB 301-18"
+    }
+  },
+  {
+    "id": "team38",
+    "name": "dinamita",
+    "display_name": "dinamita",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Lisbeth Yucra Mendoza\n- Carolay Ccama Enriquez",
+    "location": {
+      "description": "LAB 304-4"
+    }
+  },
+  {
+    "id": "team50",
+    "name": "[ACM] YP",
+    "display_name": "[ACM] YP",
+    "affiliation": "Principiante",
+    "organization_id": "PRINC",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Rosy Aurely Montalvo Solórzano",
+    "location": {
+      "description": "LAB 305-10"
+    }
+  },
+  {
+    "id": "team39",
+    "name": "Dino Team",
+    "display_name": "Dino Team",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Nestor Corrales Usca\n- Alvaro Americo Orue Quispe",
+    "location": {
+      "description": "LAB 304-12"
+    }
+  },
+  {
+    "id": "team2",
+    "name": "Example teamname",
+    "display_name": "Example teamname",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "",
+    "location": {
+      "description": ""
+    }
+  },
+  {
+    "id": "team48",
+    "name": "Lanube",
+    "display_name": "Lanube",
+    "affiliation": "Intermedio",
+    "organization_id": "INTER",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Ciro Gabriel Callapiña Castilla",
+    "location": {
+      "description": "LAB 305-20"
+    }
+  },
+  {
+    "id": "team19",
+    "name": "TBaseLogic",
+    "display_name": "TBaseLogic",
+    "affiliation": "Avanzado",
+    "organization_id": "AVANZ",
+    "group_ids": [
+      "contestants"
+    ],
+    "hidden": false,
+    "nationality": "PER",
+    "public_description": "- Jefferson Lennart Campos Segovia\n- Jhon&nbsp;Jaime Tincusi Ccorimanya\n- Roswell Jaime Pando Muñoz",
+    "location": {
+      "description": "LAB 303-7"
+    }
+  }
+]

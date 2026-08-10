@@ -28,7 +28,7 @@ const siteConfig = {
 
   contests: [
     { name: "Cuscontest XVII",  year: 2019, contestUrl: "https://codeforces.com/gym/365620", scoreboardUrl: "https://codeforces.com/gym/365620/standings", platform: "Codeforces" },
-    { name: "Cuscontest XIX",   year: 2021, contestUrl: null, scoreboardUrl: "https://wozmit.github.io/ccxix/scoreboard", platform: "DOMjudge" },
+    { name: "Cuscontest XIX",   year: 2021, contestUrl: null, scoreboardUrl: "./scoreboard/index.html?contest=cuscontest-xix", platform: "DOMjudge" },
     { name: "Cuscontest XX",    year: 2022, contestUrl: "https://omegaup.com/arena/cuscontest-xx/", scoreboardUrl: "https://omegaup.com/arena/cuscontest-xx/scoreboard/xabGNtJRMdX7JkMfNqvHCZe2rsfHVH", platform: "OmegaUp" },
     { name: "Cuscontest XXI",   year: 2023, contestUrl: "https://codeforces.com/group/gHgjxYvnJD/contest/541090", scoreboardUrl: "./scoreboard/index.html?contest=cuscontest-xxi", platform: "DOMjudge" },
     { name: "Cuscontest XXII",  year: 2023, contestUrl: "http://codeforces.com/group/gHgjxYvnJD/contest/616018", scoreboardUrl: "./scoreboard/index.html?contest=cuscontest-xxii", platform: "DOMjudge" },
